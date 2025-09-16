@@ -1,0 +1,3053 @@
+[Company]
+com_00075 = [
+           {
+            "com_name":"松山湖材料实验室 ",
+            "com_webname" :"松山湖材料实验室",
+            "com_logo":"https://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/029af271-a538-4145-a0fc-c4701b9361ac.png",
+            "urls":{
+                                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/school.html",
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/social.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/overseas.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_3",
+            "hd_all_location":"广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00083 = [
+           {
+            "com_name":"顶点软件股份有限公司 ",
+            "com_webname" :"顶点软件股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/apexsoft/13aef54e-b7aa-4a87-b408-c0b3ef735225.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62d669e0bef57c0f7dbabacf/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62d669e0bef57c0f7dbabacf/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62d669e0bef57c0f7dbabacf/pb/index.html#/",
+            "template":"template_50006",
+            "hd_all_location":"北京,上海,福建省,广东省,湖北省,江苏省,四川省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50003"
+           }
+           ]
+com_00084 = [
+           {
+            "com_name":"春秋航空股份有限公司 ",
+            "com_webname" :"春秋航空股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/e92079fb-0da2-4062-b7cf-e3328a2d9b2a.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6311b6cf0dcad4076d054b89/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6311b6cf0dcad4076d054b89/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6311b6cf0dcad4076d054b89/pb/index.html#/",
+            "template":"template_50006",
+            "hd_all_location":"上海,河北省,海外,江苏省,重庆",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50017"
+           }
+           ]
+com_00085 = [
+           {
+            "com_name":"上海吉祥航空股份有限公司 ",
+            "com_webname" :"上海吉祥航空股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/01d48516-76a3-44fd-9cad-6f5c256b6a74.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62ea129d0dcad4075c8525ca/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62ea129d0dcad4075c8525ca/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62ea129d0dcad4075c8525ca/pb/index.html#/",
+            "template":"template_50007",
+            "hd_all_location":"北京,上海,广东省,海外,江苏省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50005"
+           }
+           ]
+com_00086 = [
+           {
+            "com_name":"安利（中国）日用品有限公司 ",
+            "com_webname" :"安利（中国）日用品有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/01d48516-76a3-44fd-9cad-6f5c256b6a74.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6164fa892f9d244de1513582/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62ea129d0dcad4075c8525ca/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6164fa892f9d244de1513582/pb/social.html",
+            "template":"template_50007",
+            "hd_all_location":"北京,上海,广东省,海外,江苏省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50007"
+           }
+           ]
+com_00087 = [
+           {
+            "com_name":"远东控股集团有限公司 ",
+            "com_webname" :"远东控股集团有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/FarEast/7248511e-f105-4d57-a004-144afd8ffd9f.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU641d034b2f9d246c37bb1704/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU641d034b2f9d246c37bb1704/pb/school.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU641d034b2f9d246c37bb1704/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU641d034b2f9d246c37bb1704/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"北京市,北京市朝阳区,北京市海淀区,上海市,上海市浦东新区,广东省,深圳市,广州市,江苏省,南京市,苏州市,浙江省,杭州市,海外",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50008"
+           }
+           ]
+com_00088 = [
+           {
+            "com_name":"丝路视觉科技股份有限公司 ",
+            "com_webname" :"丝路视觉科技股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/20668c0a-cd8d-413e-b2a1-32a0507a4ae1.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU63181444bef57c71a910505b/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU63181444bef57c71a910505b/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU63181444bef57c71a910505b/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"北京,上海,天津,安徽省,广东省,湖北省,江苏省,四川省,山东省,云南省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50010"
+
+           }
+           ]
+com_00089 = [
+           {
+            "com_name":"隆基绿能科技股份有限公司 ",
+            "com_webname" :"隆基绿能科技股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/LONGI/5e3fab3d-98c9-4662-b472-053544eec95c.png",
+            "urls":{
+                    "shezhao_1":"https://longi.hotjob.cn/SU649d2f9c0dcad4644b43df7e/pb/social.html",
+                    "xiaozhao_1":"https://longi.hotjob.cn/SU649d2f9c0dcad4644b43df7e/pb/school.html"
+
+            },
+            "pre_open_url":"https://longi.hotjob.cn/",
+            "template":"template_50006",
+            "hd_all_location":"北京,上海,安徽省,广东省,甘肃省,湖北省,湖南省,海外,江苏省,内蒙古自治区,宁夏回族自治区,青海省,陕西省,新疆维吾尔自治区,云南省,浙江省",
+            "json_domain":"https://longi.hotjob.cn",
+            "func_name":"gen_50029"
+           }
+           ]
+com_00090 = [
+           {
+            "com_name":"易方达基金管理有限公司 ",
+            "com_webname" :"易方达基金管理有限公司 ",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/efunds/8d72a854-222d-4acd-b4ca-acb854c78b03.jpeg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU67ac68866202cc7916aea66e/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU67ac68866202cc7916aea66e/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU67ac68866202cc7916aea66e/pb/index.html#/",
+            "template":"template_50006",
+            "hd_all_location":"北京,上海,天津,重庆,安徽省,广东省,甘肃省,贵州省,湖北省,河北省,黑龙江省,河南省,吉林省,江苏省,辽宁省,四川省,山东省,陕西省,香港,新疆维吾尔自治区,云南省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50012"
+           }
+           ]
+com_00091 = [
+           {
+            "com_name":"康佳集团股份有限公司 ",
+            "com_webname" :"康佳集团股份有限公司 ",
+            "com_logo":"https://sc.hotjob.cn/wt/component1000/corp/konka/images/kj-logo.png",
+            "urls":{
+                    "shezhao_1":"https://sc.hotjob.cn/wt/konka/web/templet1000/index/corpwebPosition1000konka!gotoPostListForAjax?positionType=&brandCode=1&useForm=0&recruitType=2&showComp=true",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6336a22e2f9d246ff77214b9/pb/interns.html"
+
+            },
+            "pre_open_url":"https://sc.hotjob.cn/wt/konka/web/index/CompkonkaPageindex",
+            "template":"template_50009",
+            "hd_all_location":"重庆,滁州,深圳",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50013"
+           }
+           ]
+com_00092 = [
+           {
+            "com_name":"苏美达国际技术贸易有限公司 ",
+            "com_webname" :"苏美达国际技术贸易有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/sumecitc/4f617807-b395-4846-9755-227bdf24061e.png",
+            "urls":{
+                    "shezhao_1":"https://sumecitc.hotjob.cn/SU63feee2a2f9d240675e051fd/pb/social.html",
+                    "xiaozhao_1":"https://sumecitc.hotjob.cn/SU63feee2a2f9d240675e051fd/pb/school.html"
+
+            },
+            "pre_open_url":"https://sumecitc.hotjob.cn/SU63feee2a2f9d240675e051fd/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"上海,天津,重庆,福建省,广东省,河北省,湖北省,江苏省,四川省,山东省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50014"
+           }
+           ]
+com_00093 = [
+           {
+            "com_name":"恒申控股集团有限公司 ",
+            "com_webname" :"恒申控股集团有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/HSCCHR/a3f7000e-ffc5-4290-bb52-f0cea92bedba.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU63e5f2362f9d2414bbf056fd/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU63e5f2362f9d2414bbf056fd/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU63e5f2362f9d2414bbf056fd/pb/social.html",
+            "template":"template_50008",
+            "hd_all_location":"福建省,广东省,海外",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50015"
+           }
+           ]
+com_00094 = [
+           {
+            "com_name":"深圳市豪鹏科技股份有限公司 ",
+            "com_webname" :"深圳市豪鹏科技股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/d4edda5d-9933-46d5-b5a8-9de556f7dbed.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU611e3a2c2f9d24229e05a18d/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU611e3a2c2f9d24229e05a18d/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU611e3a2c2f9d24229e05a18d/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"广东省,海外,惠州",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50016"
+
+           }
+           ]
+com_00095 = [
+           {
+            "com_name":"雀巢集团有限公司 ",
+            "com_webname" :"雀巢集团有限公司",
+            "com_logo":"https://public-cdn.mokahr.com/nestlezgc/7ad148ec-3088-4884-91f3-f3ef529b2e4a.jpg",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/nestlezgc/91898#/jobs?zhineng%%5B0%%5D=137650",
+                    "shezhao_2":"https://app.mokahr.com/social-recruitment/nestlezgc/91898#/jobs?zhineng%%5B0%%5D=133657",
+                    "shezhao_3":"https://app.mokahr.com/social-recruitment/nestlezgc/91898#/jobs?zhineng%%5B0%%5D=135693",
+                    "shezhao_4":"https://app.mokahr.com/social-recruitment/nestlezgc/91898#/jobs?zhineng%%5B0%%5D=137649",
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/nestlezgc/91899?edit=1&hireMode=2#/jobs?commitment%%5B0%%5D=%%E5%%AE%%9E%%E4%%B9%%A0&page=1&anchorName=jobsList&keyword="
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/nestlezgc/91898#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,深圳市,广州市,杭州市,南京市,武汉市,台北市,苏州市,乌鲁木齐市,西安市,重庆市,东莞市,黔东南苗族侗族自治州,银川市,汕头市,百色市,宁波市,南昌市,泉州市,石家庄市,厦门市,哈密市,海口市,喀什地区,沈阳市,三亚市,韶关市,通化市,茂名市,温州市,福州市,无锡市,湛江市,长沙市,咸阳市,成都市,镇江市,天津市,济南市",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/nestlezgc",
+            "func_name":"gen_50018"
+
+           }
+           ]
+com_00096 = [
+           {
+            "com_name":"北京金隅集团股份有限公司 ",
+            "com_webname" :"北京金隅集团股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/BBMG/febcec1d-efab-4de5-ad10-cb42d1a76ac7.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62d139692f9d2470a6e6e052/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62d139692f9d2470a6e6e052/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62d139692f9d2470a6e6e052/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"北京,重庆,河北省,内蒙古自治区,陕西省,山西省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50019",
+            "page_count":"Y"
+           }
+           ]
+com_00097 = [
+           {
+            "com_name":"华夏银行 ",
+            "com_webname" :"华夏银行",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/hxb/85ef44da-d80f-4d09-9869-1ec2e2467433.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU645b0d18bef57c0907e9fbc8/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU645b0d18bef57c0907e9fbc8/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU645b0d18bef57c0907e9fbc8/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"北京,上海,天津,安徽省,广东省,湖北省,江苏省,四川省,山东省,云南省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50020"
+           }
+           ]
+com_00098 = [
+           {
+            "com_name":"郑州银行 ",
+            "com_webname" :"郑州银行",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/zzbank/c7b02ca1-74f9-4df8-a877-331b6e9a05d0.png",
+            "urls":{
+                    "shezhao_1":"https://zzbank.hotjob.cn/SU64f952b41eb8051fabaed066/pb/social.html",
+                    "xiaozhao_1":"https://zzbank.hotjob.cn/SU64f952b41eb8051fabaed066/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://zzbank.hotjob.cn/SU64f952b41eb8051fabaed066/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"郑州",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50021",
+            "page_count":"Y"
+           }
+           ]
+com_00099 = [
+           {
+            "com_name":"深圳先进光源研究院 ",
+            "com_webname" :"深圳先进光源研究院",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/default/3170f4cc-15c9-4af9-8c16-051d6c14cf65.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU61154abbbef57c65330a058b/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU61154abbbef57c65330a058b/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU61154abbbef57c65330a058b/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"深圳市",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50023",
+            "page_count":"Y"
+           }
+           ]
+com_00100 = [
+           {
+            "com_name":"荣芯半导体有限公司 ",
+            "com_webname" :"荣芯半导体有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/5ea88d0a-f041-47e8-9cb7-597a94b83391.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62e1fc77bef57c63469f7b6f/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62e1fc77bef57c63469f7b6f/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62e1fc77bef57c63469f7b6f/pb/social.html",
+            "template":"template_50005",
+            "hd_all_location":"上海,江苏省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50024"
+           }
+           ]
+;com_00101 = [
+;           {
+;            "com_name":"台州银行 ",
+;            "com_webname" :"台州银行",
+;            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/TZBANK/77c62314-bd0a-4e9c-b247-7b2dbab8fa52.png",
+;            "urls":{
+;                    "shezhao_1":"https://wecruit.hotjob.cn/SU66ab2efb1c240e2e76253a76/pb/social.html",
+;                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU66ab2efb1c240e2e76253a76/pb/school.html",
+;                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU66ab2efb1c240e2e76253a76/pb/interns.html"
+;
+;
+;            },
+;            "pre_open_url":"https://wecruit.hotjob.cn/SU63ae8855bef57c0c2eb75e63/pb/index.html#/",
+;            "template":"template_50008",
+;            "hd_all_location":"台州",
+;            "json_domain":"https://wecruit.hotjob.cn",
+;            "func_name":"gen_50024",
+;            "page_count":"Y"
+;           }
+;           ]
+com_00101 = [
+           {
+            "com_name":"九洲集团 ",
+            "com_webname" :"九洲集团",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/jezetek/62e2cc99-24b1-47d5-a305-a612792e13e6.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU67c7a52a1c240e1887c9c470/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU67c7a52a1c240e1887c9c470/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU67c7a52a1c240e1887c9c470/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"北京市,上海市,重庆市,广州市,深圳市,中山市,武汉市,海外,扬州市,成都市,绵阳市,渭南市,西安市",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50025",
+            "page_count":"Y"
+           }
+           ]
+com_00102 = [
+           {
+            "com_name":"曙光信息产业股份有限公司 ",
+            "com_webname" :"曙光信息产业股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/SC/49951077-09e8-42fa-b461-0f44aa789965.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU670cd8866202cc7666cd4439/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU670cd8866202cc7666cd4439/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU670cd8866202cc7666cd4439/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"北京,上海,天津,安徽省,广东省,甘肃省,湖北省,湖南省,辽宁省,四川省,山东省,山西省,新疆维吾尔自治区,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50027",
+            "page_count":"Y"
+           }
+           ]
+com_00103 = [
+           {
+            "com_name":"甘棠明善 ",
+            "com_webname" :"甘棠明善",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/SC/49951077-09e8-42fa-b461-0f44aa789965.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU65274c6a3538bc1102b183df/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU65274c6a3538bc1102b183df/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU65274c6a3538bc1102b183df/pb/social.html",
+            "template":"template_50008",
+            "hd_all_location":"上海,广东省,湖北省,江苏省,江西省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50026",
+            "page_count":"Y"
+           }
+           ]
+
+com_00104 = [
+           {
+            "com_name":"坤泰车辆系统（常州）股份有限公司 ",
+            "com_webname" :"坤泰车辆系统（常州）股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/KUNYTE/8475285c-3581-4666-96b4-5339c37f8df8.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU67345ea51c240e0191eabe5b/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU67345ea51c240e0191eabe5b/pb/school.html"
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU67345ea51c240e0191eabe5b/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"安徽省,江苏省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50028",
+            "page_count":"Y"
+           }
+           ]
+com_00105 = [
+           {
+            "com_name":"广州市城市规划勘测设计研究院 ",
+            "com_webname" :"广州市城市规划勘测设计研究院招聘官网",
+            "com_logo":"https://sc.hotjob.cn/wt/GZPI/web/img!viewWebSiteLogo?brandCode=1&operational=6142d479117d65b96f072314f48b5e72725c568b9225d6d95dfc5f961d1179c247a5d8242eceb56a3524f52891ae7337cb88529bde9703246fbc8e805492e82378b338a9d62d5b0a",
+            "urls":{
+                    "shezhao_1":"https://sc.hotjob.cn/wt/GZPI/web/index/social",
+                    "xiaozhao_1":"https://sc.hotjob.cn/wt/GZPI/web/index/campus"
+
+
+            },
+            "pre_open_url":"https://sc.hotjob.cn/wt/GZPI/web/index?brandCode=1",
+            "template":"template_50003",
+            "hd_all_location":"安徽省,江苏省",
+            "json_domain":"https://sc.hotjob.cn",
+            "func_name":"gen_50030",
+            "page_count":"Y"
+           }
+           ]
+com_00106 = [
+           {
+            "com_name":"广州兴森快捷电路科技有限公司 ",
+            "com_webname" :"广州兴森快捷电路科技有限公司",
+            "com_logo":"https://www.hotjob.cn//wt/FASTPRINT/web/img!viewWebSiteLogo?brandCode=1&operational=dede30a62196f1b60cb5955a9308dc1cbfacecb9967661e6f508fd569d2b4bac7ed4110d6d3a3e189679a89f01dbf147a6abed9029eb3f874d69b3ca3ee21fd8a7e8203f29f91b51",
+            "urls":{
+                    "shezhao_1":"https://www.hotjob.cn/wt/FASTPRINT/web/index/social",
+                    "xiaozhao_1":"https://www.hotjob.cn/wt/FASTPRINT/web/index/campus"
+
+
+            },
+            "pre_open_url":"https://www.hotjob.cn/wt/FASTPRINT/web/index?brandCode=1",
+            "template":"template_50003",
+            "hd_all_location":"珠海市,广州市",
+            "json_domain":"https://sc.hotjob.cn",
+            "func_name":"gen_50031",
+            "page_count":"Y"
+           }
+           ]
+com_00107 = [
+           {
+            "com_name":"海思科医药集团 ",
+            "com_webname" :"海思科医药集团",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/haisco/9c0b1a86-b372-437e-a372-642a9c359808.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6663b85a1eb8051cd22556e3/pb/social.html?currentPage=2",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6663b85a1eb8051cd22556e3/pb/school.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6663b85a1eb8051cd22556e3/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"北京市,上海市,重庆市,东莞市,佛山市,广州市,江门市,深圳市,中山市,武汉市,宜昌市,南京市,葫芦岛市,沈阳市,成都市,眉山市,济南市,山南市,杭州市",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50032",
+            "page_count":"Y"
+           }
+           ]
+com_00108 = [
+           {
+            "com_name":"易唯思商务咨询（上海）有限公司 ",
+            "com_webname" :"易唯思商务咨询（上海）有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/Evalueserve/ef18f9c2-4fbc-4f06-b733-89a0fd520282.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU630839dd0dcad4076def608e/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU630839dd0dcad4076def608e/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU630839dd0dcad4076def608e/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"上海市,香港",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50034",
+            "page_count":"Y"
+           }
+           ]
+com_00109 = [
+           {
+            "com_name":"琏升光伏",
+            "com_webname" :"琏升光伏",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/LPVHJT/4de12249-cd96-4c31-85fb-9da5a0553f7b.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6474ae002f9d2433ba7b3b22/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6474ae002f9d2433ba7b3b22/pb/school.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU6474ae002f9d2433ba7b3b22/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6474ae002f9d2433ba7b3b22/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"四川省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50033",
+            "page_count":"Y"
+           }
+           ]
+com_00110 = [
+           {
+            "com_name":"珠海华润银行股份有限公司",
+            "com_webname" :"珠海华润银行股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/crcbank/9d98c8c8-e07e-4886-8490-1fcf937c0289.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU638d61cd0dcad444a273670c/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU638d61cd0dcad444a273670c/pb/school.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU638d61cd0dcad444a273670c/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU638d61cd0dcad444a273670c/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"广东省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50035",
+            "page_count":"Y"
+           }
+           ]
+com_00111 = [
+           {
+            "com_name":"用友网络科技股份有限公司",
+            "com_webname" :"用友网络科技股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/yonyou/3ccf4376-9479-41ab-8f22-0a0bf50d5f8e.png",
+            "urls":{
+                    "shezhao_1":"https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/social.html",
+                    "xiaozhao_1":"https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/school.html",
+                    "xiaozhao_2":"https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://career.yonyou.com/SU67ac41886202cc7916ae3029/pb/index.html#/",
+            "template":"template_50006",
+            "hd_all_location":"北京",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50036",
+            "page_count":"Y"
+           }
+           ]
+com_00112 = [
+           {
+            "com_name":"九州通医药集团",
+            "com_webname" :"九州通医药集团",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/JZT/c1a94397-7f73-40d1-bb3b-37d40d5738c6.png",
+            "urls":{
+                    "shezhao_1":"https://jztey.hotjob.cn/SU64d9c27a6202cc36e2868af9/pb/social.html",
+                    "xiaozhao_1":"https://jztey.hotjob.cn/SU64d9c27a6202cc36e2868af9/pb/school.html",
+                    "xiaozhao_2":"https://jztey.hotjob.cn/SU64d9c27a6202cc36e2868af9/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://jztey.hotjob.cn/SU64d9c27a6202cc36e2868af9/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"北京,福建省,广东省,甘肃省,贵州省,湖北省,河北省,黑龙江省,湖南省,河南省,山东省,陕西省,山西省,浙江省",
+            "json_domain":"https://jztey.hotjob.cn",
+            "func_name":"gen_50037",
+            "page_count":"Y"
+           }
+           ]
+com_00113 = [
+           {
+            "com_name":"博时基金管理有限公司",
+            "com_webname" :"博时基金管理有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/bosera/0579bfa4-8316-4823-80e6-3c9aeb289aac.png",
+            "urls":{
+                    "shezhao_1":"https://bosera.hotjob.cn/SU65f940241c240e0a2275bda8/pb/social.html",
+                    "xiaozhao_1":"https://bosera.hotjob.cn/SU65f940241c240e0a2275bda8/pb/school.html",
+                    "xiaozhao_2":"http://bosera.hotjob.cn/SU65f940241c240e0a2275bda8/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://bosera.hotjob.cn/",
+            "template":"template_50005",
+            "hd_all_location":"北京,广东省",
+            "json_domain":"http://bosera.hotjob.cn",
+            "func_name":"gen_50038",
+            "page_count":"Y"
+           }
+           ]
+com_00114 = [
+           {
+            "com_name":"老百姓大药房连锁股份有限公司",
+            "com_webname" :"老百姓大药房连锁股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/bosera/0579bfa4-8316-4823-80e6-3c9aeb289aac.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62760948bef57c796a8ee466/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62760948bef57c796a8ee466/pb/school.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62760948bef57c796a8ee466/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"上海,天津,安徽省,甘肃省,广西壮族自治区,贵州省,湖北省,湖南省,河南省,吉林省,江苏省,内蒙古自治区,宁夏回族自治区,山东省,陕西省,山西省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50039",
+            "page_count":"Y"
+           }
+           ]
+com_00115 = [
+           {
+            "com_name":"广州金控集团",
+            "com_webname" :"广州金控集团",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/GZJK/6662bdfd-9bb3-4121-909c-540be2e1d146.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU631722400dcad45d8178a329/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU631722400dcad45d8178a329/pb/school.html",
+                     "xiaozhao_2":"https://wecruit.hotjob.cn/SU631722400dcad45d8178a329/pb/overseas.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU631722400dcad45d8178a329/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"广东省",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50040",
+            "page_count":"Y"
+           }
+           ]
+com_00116 = [
+           {
+            "com_name":"永青集团有限公司",
+            "com_webname" :"永青集团有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/ETHR/eb758786-4ef9-4512-b4c7-95becb903901.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU648980fc0dcad412ce899514/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU648980fc0dcad412ce899514/pb/school.html"
+
+
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU648980fc0dcad412ce899514/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"海外",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50041",
+            "page_count":"Y"
+           }
+           ]
+com_00117 = [
+           {
+            "com_name":"奥海科技",
+            "com_webname" :"奥海科技",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/AOhai/b1a6f177-addb-4c86-8a9c-4321c446c78c.png",
+            "urls":{
+                    "xiaozhao_1":"https://aohai.hotjob.cn/SU65bf31171c240e4b119181f2/pb/school.html"
+
+
+
+            },
+            "pre_open_url":"https://aohai.hotjob.cn/SU65bf31171c240e4b119181f2/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"上海,广东省,江西省,海外",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50042",
+            "page_count":"Y"
+           }
+           ]
+com_00118 = [
+           {
+            "com_name":"新能安科技",
+            "com_webname" :"新能安科技",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/Ampace/185de665-c4e1-4814-9299-1892eb08577c.png",
+            "urls":{
+                    "shezhao_1":"https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/pb/social.html",
+                    "xiaozhao_1":"https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/pb/school.html",
+                    "xiaozhao_2":"https://ampace.hotjob.cn/SU6619d98e1eb8053acd618afb/pb/interns.html"
+
+
+
+
+            },
+            "pre_open_url":"https://aohai.hotjob.cn/SU65bf31171c240e4b119181f2/pb/index.html#/",
+            "template":"template_50008",
+            "hd_all_location":"福建省, 广东省, 海外, 其它",
+            "json_domain":"https://wecruit.hotjob.cn",
+            "func_name":"gen_50043",
+            "page_func_name":"page_50013",
+            "page_count":"Y"
+           }
+           ]
+com_00119 = [
+           {
+            "com_name":"中国船舶集团有限公司",
+            "com_webname" :"中国船舶集团有限公司",
+            "com_logo":"https://stc-cms.beisen.com/CmsPortal/10729800/10729800_medias_cblogo2.png?v=637666243958100000",
+            "urls":{
+                    "shezhao_1":"https://cssc.zhiye.com/Social",
+                    "xiaozhao_1":"https://cssc.zhiye.com/Campus",
+                    "xiaozhao_2":"https://cssc.zhiye.com/Intern"
+
+            },
+            "pre_open_url":"https://cssc.zhiye.com/home",
+            "template":"template_50011",
+            "hd_all_location":"北京市, 天津市, 黑龙江省, 上海市, 广东省",
+            "json_domain":"https://cssc.zhiye.com",
+            "func_name":"gen_50044",
+            "page_func_name":"page_50007"
+
+           }
+           ]
+com_00120 = [
+           {
+            "com_name":"东莞锂威能源科技有限公司",
+            "com_webname" :"东莞锂威能源科技有限公司",
+            "com_logo":"https://stc-cms.beisen.com/CmsPortal/601568/601568_medias_2021111_2021111logo.png?v=637459563821870000",
+            "urls":{
+                    "shezhao_1":"https://liwinon.zhiye.com/Social",
+                    "xiaozhao_1":"https://liwinon.zhiye.com/Campus",
+                    "xiaozhao_2":"https://liwinon.zhiye.com/Intern"
+            },
+            "pre_open_url":"https://liwinon.zhiye.com/home",
+            "template":"template_50011",
+            "hd_all_location":"浙江省, 金华市, 惠州市, 东莞市, 兰溪市, 博罗县, 高埗镇",
+            "json_domain":"https://liwinon.zhiye.com",
+            "func_name":"gen_50045",
+            "page_func_name":"page_50010"
+
+           }
+           ]
+com_00121 = [
+           {
+            "com_name":"舒泰神（北京）生物制药股份有限公司",
+            "com_webname" :"舒泰神（北京）生物制药股份有限公司",
+            "com_logo":"https://stc-cms.beisen.com/CmsPortal/101460/101460_medias_2015813_2015813logo.png?v=635750519309400000",
+            "urls":{
+                    "shezhao_1":"https://staidson.zhiye.com/Social",
+                    "xiaozhao_1":"https://staidson.zhiye.com/Campus"
+            },
+            "pre_open_url":"https://staidson.zhiye.com/home",
+            "template":"template_50011",
+            "hd_all_location":"北京市, 河北省, 山西省, 内蒙古自治区, 辽宁省, 黑龙江省, 上海市, 江苏省, 南京市, 无锡市, 浙江省, 杭州市, 安徽省, 福州市, 厦门市, 江西省, 山东省, 济南市, 青岛市, 河南省, 湖北省, 武汉市, 湖南省, 长沙市, 广东省, 广西壮族自治区, 南宁市, 重庆市, 四川省, 眉山市, 贵州省, 云南省, 陕西省, 甘肃省, 新疆维吾尔自治区",
+            "json_domain":"https://staidson.zhiye.com",
+            "func_name":"gen_50046",
+            "page_func_name":"page_50010"
+
+           }
+           ]
+com_00122 = [
+           {
+            "com_name":"泰康保险集团股份有限公司",
+            "com_webname" :"泰康保险集团股份有限公司",
+            "com_logo":"https://video.dingxikeji.com/beisen/taikang/web/img/logo20223.png?v=1",
+            "urls":{
+                    "shezhao_1":"https://jobtaikang.zhiye.com/custom/sociallist?hideAll=true",
+                    "xiaozhao_1":"https://jobtaikang.zhiye.com/custom/campuslist?hideAll=true"
+
+            },
+            "pre_open_url":"https://jobtaikang.zhiye.com/",
+            "template":"template_50012",
+            "hd_all_location":"北京市, 天津市, 河北省, 山西省, 内蒙古自治区, 辽宁省, 吉林省, 黑龙江省, 上海市, 江苏省, 浙江省, 安徽省, 福建省, 江西省, 山东省, 河南省, 湖北省, 湖南省, 广东省, 广西壮族自治区, 海南省, 重庆市, 四川省, 贵州省, 云南省, 陕西省, 甘肃省, 青海省, 宁夏回族自治区",
+            "json_domain":"https://jobtaikang.zhiye.com",
+            "func_name":"gen_50047",
+            "page_func_name":"page_50008"
+
+           }
+           ]
+com_00123 = [
+           {
+            "com_name":"中国航空技术国际控股有限公司",
+            "com_webname" :"中国航空技术国际控股有限公司",
+            "com_logo":"https://zhonghangguoji.oss-cn-beijing.aliyuncs.com/web/img/202104/logo.png?v=2",
+            "urls":{
+                    "shezhao_1":"https://avicsz.zhiye.com/custom/social?hideAll=true",
+                    "xiaozhao_1":"https://avicsz.zhiye.com/custom/campus?hideAll=true",
+                    "xiaozhao_2":"https://avicsz.zhiye.com/custom/intern?hideAll=true"
+
+            },
+            "pre_open_url":"https://avicsz.zhiye.com/custom/index?hideAll=true",
+            "template":"template_50013",
+            "hd_all_location":"海外,北京市,天津市,河北省,山西省,内蒙古,辽宁省,吉林省,黑龙江省,上海市,江苏省,浙江省,安徽省,福建省,江西省,山东省,河南省,湖北省,湖南省,广东省,广西省,海南省,重庆市,四川省,贵州省,云南省,西藏,陕西省,甘肃省,青海省,宁夏,新疆",
+            "json_domain":"https://avicsz.zhiye.com",
+            "func_name":"gen_50048",
+            "page_func_name":"page_50009"
+
+           }
+           ]
+com_00124 = [
+           {
+            "com_name":"华勤技术股份有限公司",
+            "com_webname" :"华勤技术股份有限公司",
+            "com_logo":"https://public-cdn.mokahr.com/hq/cbd53510-fbcd-48e3-a46a-8bbf48b7798e.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/campus-recruitment/hq/44757#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus-recruitment/hq/44757#/",
+            "template":"template_50010",
+            "hd_all_location":"东莞市,南昌市,上海市,无锡市,西安市,天津市,武汉市",
+            "json_domain":"https://app.mokahr.com",
+            "func_name":"gen_50048"
+
+           }
+           ]
+com_00125 = [
+           {
+            "com_name":"武汉高德红外股份有限公司",
+            "com_webname" :"武汉高德红外股份有限公司",
+            "com_logo":"https://portal-oss.zhiye.com/612516/image/c899a1fa-12f8-4b0f-8913-4633acc9fdf8.png",
+            "urls":{
+                    "shezhao_1":"https://gdhw.zhiye.com/social/jobs?"
+
+            },
+            "pre_open_url":"https://gdhw.zhiye.com/",
+            "template":"template_50014",
+            "hd_all_location":"湖北省",
+            "json_domain":"https://gdhw.zhiye.com",
+            "func_name":"gen_50049",
+            "page_func_name":"page_50009"
+
+           }
+           ]
+com_00126 = [
+           {
+            "com_name":"正大天晴药业集团股份有限公司",
+            "com_webname" :"正大天晴药业集团股份有限公司",
+            "com_logo":"https://portal-oss.zhiye.com/100399/image/ad85571b-262a-477f-b9e4-d75cb94ead5a.png",
+            "urls":{
+                    "shezhao_1":"https://cttq.zhiye.com/social/jobs",
+                    "xiaozhao_1":"https://cttq.zhiye.com/campus/jobs",
+                    "xiaozhao_2":"https://cttq.zhiye.com/intern/jobs"
+
+            },
+            "pre_open_url":"https://cttq.zhiye.com/jobs",
+            "template":"template_50014",
+            "hd_all_location":"江苏省,广东省,河南省,山东省,安徽省,浙江省,湖北省,河北省,湖南省",
+            "json_domain":"https://cttq.zhiye.com",
+            "func_name":"gen_50050"
+
+
+           }
+           ]
+
+com_00127 = [
+           {
+            "com_name":"深圳市汇川技术股份有限公司",
+            "com_webname" :"深圳市汇川技术股份有限公司",
+            "com_logo":"https://stcms.beisen.com/image/231679/8bd2c851b15d41c3853da9896fd21b14_o.png?sig_t=1716802534&sig_exp=2592000&sig_a=recruitment&sig_pm=8&sig_npm=2&sig_v=1&sig=0d8916c8cacb1194ff0376ac5aaddf0342df89f8",
+            "urls":{
+                    "shezhao_1":"https://inovance.zhiye.com/social/jobs",
+                    "xiaozhao_1":"https://inovance.zhiye.com/campus/jobs"
+
+            },
+            "pre_open_url":"https://inovance.zhiye.com/jobs",
+            "template":"template_50014",
+            "hd_all_location":"上海市,浙江省,福建省,江西省,天津市,北京市,山西省,甘肃省,新疆维吾尔自治区",
+            "json_domain":"https://inovance.zhiye.com",
+            "func_name":"gen_50051"
+
+
+           }
+           ]
+com_00128 = [
+           {
+            "com_name":"重庆长安汽车股份有限公司",
+            "com_webname" :"重庆长安汽车股份有限公司",
+            "com_logo":"https://portal-oss.zhiye.com/101464/image/2a17447f-91fe-49d2-a198-833c8a630663.png",
+            "urls":{
+                    "shezhao_1":"https://changan.zhiye.com/social/jobs",
+                    "xiaozhao_1":"https://changan.zhiye.com/campus/jobs"
+
+            },
+            "pre_open_url":"https://changan.zhiye.com/jobs",
+            "template":"template_50014",
+            "hd_all_location":"重庆市,北京市,上海市,合肥市,南京市,俄罗斯联邦",
+            "json_domain":"https://changan.zhiye.com",
+            "func_name":"gen_50052"
+
+
+           }
+           ]
+com_00129 = [
+           {
+            "com_name":"武汉光迅科技股份有限公司",
+            "com_webname" :"武汉光迅科技股份有限公司",
+            "com_logo":"https://public-cdn.mokahr.com/accelink/b5fc8ee1-a388-468c-a03f-18d71bf2dae5.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/accelink/139972#/jobs?zhineng%%5B0%%5D=195485",
+                    "shezhao_2":"https://app.mokahr.com/social-recruitment/accelink/139972#/jobs?zhineng%%5B0%%5D=195486",
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/accelink/139973#/"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/accelink/139972#/",
+            "template":"template_50010",
+            "hd_all_location":"武汉市",
+            "json_domain":"https://app.mokahr.com/social-recruitment/accelink",
+            "func_name":"gen_50053"
+
+
+           }
+           ]
+com_00130 = [
+           {
+            "com_name":"杭州游卡网络技术有限公司",
+            "com_webname" :"杭州游卡网络技术有限公司",
+            "com_logo":"https://public-cdn.mokahr.com/yokagames/8ab8b8dc-8313-41d7-b3d7-2e42a3584500.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/yokagames/41939?previewKey=057b3dc2fbb4465b8c27b798e6b2805d52a423b1b1c140858f9e6e1bab4c7f06#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/accelink/139972#/",
+            "template":"template_50010",
+            "hd_all_location":"杭州市,上海市,广州市,成都市,深圳市,日本",
+            "json_domain":"https://app.mokahr.com/social-recruitment/accelink",
+            "func_name":"gen_50053"
+
+           }
+           ]
+com_00131 = [
+           {
+            "com_name":"广州华多网络科技有限公司",
+            "com_webname" :"广州华多网络科技有限公司",
+            "com_logo":"https://public-cdn.mokahr.com/adb53b12-5789-4dd6-9499-831cd3428703.png",
+            "urls":{
+                    "shezhao_1":"https://hr.joyy.com/apply/hjsd/48#/jobs?_k=i3ov2o"
+
+            },
+            "pre_open_url":"https://hr.joyy.com/#/",
+            "template":"template_50015",
+            "hd_all_location":"武汉市",
+            "json_domain":"https://hr.joyy.com/apply/hjsd/48",
+            "func_name":"gen_50056"
+
+           }
+           ]
+com_00132 = [
+           {
+            "com_name":"北京玩蟹科技有限公司",
+            "com_webname" :"北京玩蟹科技有限公司",
+            "com_logo":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALkAAABQCAYAAABF5tQWAAAfa0lEQVR4nO19CXAc13nm38fcBwaDGRwzGAxugKDFm7pIHZRNJxGltSNbWUux10mtXbbXR0kqr5VNKnbZie2ss7acje09vMnuSo4leZ1dObFsSyWJpE1SpElKpCgCBEHc1wCYwdzTd/fW/6YbGgxuQCRBpr+qqRl0v9f9uvG9v//3Xw0mTJgwYcKECRMmTJgwYcKECRMmTJgwYcKECRMmTJgwYcKECRMmTJgwYcKECRMmTJgwYcKECRM3I6jNek2FJyre1eNZnEzzr4fg9mMT6o9tjLZgv6YBaFwBWh74FATe+xkQ4iOLHocXeKgP1/9hXV1doyRJqzo3RRVv82+O/ebptpbWeyINDVFRFNd8DTRNgyxLcKm39weiKCZdTheMT4zD7Ows2G02yOVycOe+fQ+3trS28zw/10dRFO2ll1/6YXxmZsZuty96bLwWp9MJBw8e/GxFhc+3+mvDczDQ39//6n33HTi55ou6BmA346DebVCgdUgK9Ualx/LlbTUysPQiJ9A00LIA1Y1NEGxpB9HDLDoKJE9DQ8Nf+v2VjWsd5pmzZ06HQnXfCIdDkY1cYiaT/X+aqiVFSYTLfZdBliSYLeRh585dB+7av/8ni/X5g4cffkLTtCxlzLgyaJpGXenv/78+n++RcDhcs9YxCQKPUskk+XXCQxpQ/6jyCuz0yN/eWakAaIv8nzUZoCDBRMAHE3kBHIqy6GgVRcFPPwCsmeSapuVVVcW+6ya5qqr4ESigYHR0FHhBAJphXFvb33Pg/vvvf2GpflVVVVX4tdyx05nMVlEUzwPA+9cxrum19rlWuNlJ/j0A+Cz+oCntl7ysgSYvLqFpjgPNWwNSw23gYyVgnM4lDkmBx+NZs6RDsCxrUxRFXk/fuXHSNFitVpbjOKirq4PKSj9UVwc+vW3btv+0keMCkcZCusLr7VhPX01bqAJuFtysJG8AgGcB4M6Sbc9pyyxBLCrAtKcZepIUOKYvAqUuLslRl1YU6aTP56MpilJ4npcsFktFY2NjS2k7SZLkoaGhSyzLKAzDMpqmKfl8Pmm1WpeaPSsCnyKZTHY2nkjkJUkEX4UPWIaFiooKd3lfQRCyp0+f/kE6nY7ZbDaLVtwmBwOBnbt37/4oy7LzbkYqlRo7ffr0lxRF8Qg8Hzx48OA3W1tb95a26bl06Zs8xz/rdrv3trQ0/x1OuBsBNyPJHwWAvwOA8hXWkeU6UQ4b2FMDcPboryBLu8EvzYBKLZT6qNIqivxJVdUI4XGxt2/fvu2NjY3nSttJkhx/5ZVXbunv7wePxw2KopFvt9cbXekCkMwcx+Wz2WxPoVA4Ozs7eyadzlwUBGFKkqXJdCbD4RrC6XACqi0FriCjJC1VtwVR5Cma1jxebwXDMISNDE3LlX5/kGGYBbOd4zjO6XRmVEUdtFnt4Ha7A6X7p6enU+fOnfvTttY2KBS4BZNqM+NmI/l/B4BPLrJ9FAAWN5fo4BkH+IQpeCj9LDwT+iJIVgrccnoJottQKoKmqXDXXXdDZ2cnjbpyqWRTVQVuvfV2qKjwwcBAP9hsxVvtcjrDRhtFVUAUxEImm+3P53JvJmZnz6SSqTc5nptWVXWKoZk0y7JksVsoFIChGbA77eB0OIg1ZGx8jHwPjzI/ZBlLXVtb62eNY3s9nuC+O+/8k9XeuLq6uraW5uY9VVVVn4lGow+iZlS6f2Jy8qlAIHDf9u3bfk5RlO1GkeJwE5G8HQD+EQDes8T+v1/xCJoGvKUCtmTOwEepp+DZuseAomhwy6l5REdpiRIcTXm7d++BSKQBCWgv10llWaFEUbDu2LFTRNVicHAQKisrbZcu9f43RVVis4nZYzRDjxfyhRjH80kkME6MfD4HqqahJAV3hRssFov+9FDIt81qg2w2i8eCSl8lSnEQBHFaFIWzG72JHMfnHQ5HsJzgiNGRkeeD1dVNFovFsVhfu83m2ej5rxZuBpJ/HAD+xwrX8uJqDqQCBYLVA12pU/Ao/TfwbPDfgSBQYFOyAFTx/y7LCuDTf9eu3dDY2ATJZBIXgguOhYREKSuKArS1tcPsbBI0VRUvXLjwaZqhgaYAXC4PaYf2aZvVCrIsk2Ph8VmLBRwOB1nQeTwecLlcpC3+TswmIBaLQXNTM9mey+WBYZgFlpPh4ZHnUeJGIvX/unT74ODQj2maZqLRhnnbVVVlVFUNlt+WgYGBX1x4++3e9x88uGepe3dlYODCau7x9cCNTHJGl9D/ZoV26NW4uJoDUqCBAgwINg9smToJj9h98Oaer4JXTiADSBskIhKturqaSNTlrAqG1EeyWm1W7Kc1NzcD2rdxwYj78YPHMB7/+M0yDJHmmv7BNrgdf6P6gro46vpTU1MQCARgKcdNMjl7mWFYJHn59l6aptlotGHedofDLg0ODj7Z39//IUVRKIqi1VwuO9A/MPCV3bt3f6i5ufkvSttfuXLlaC6XGxIE8Sd9fX2/WM09vh64UUm+CwDQ6dGyirY/Rwfqag/8DtHtsGXqV6Aoj8Bk7T5wFGJkvwYa0Y3RhLcas5nNZoOBwQEifetq6wjhJUkm6kdp/+JvqniGkt/lwH3Yl2EZGBkdQcsKSvFFz71jx44/X2z7rl27vrrYdkmSzl3s7i48+MAD36JpmgyAoqj3BoJBezAY3Or3+5tK2/f2Xn4mNhU7HAwGuZqaGlRjuBVvyHXAjUjyLwDA36yh/f9a6wmQ6KrFiu5NmB7qgQExCl5ukuxDKVzhqYBIJELItuxxdF16ZmYaCrk8EvKJ+vrwhyVJ5tc6JgMWC2vPZNI/lUTpO/GZGUin07CUq34tUFVVTqVSO9paW++qqalpLe0aCAS+pOpPslIcOnQ/qolk4r311oX3AcCrGx7IVcCNRPIq3TT4gTX2O7Gek1GaChoNQNtcYLOwYJEt+g7i1Fm184M4byxWSKdT4PNV3BMIBO5Yz3hK4fP5Zgr5/He87uUteZcu9f4t6v/tbW2fL91+8eLF79IMw27p7PycsY3juKTH43l8//79H17qOpYCTmaWZZef8dcRNwrJ3687d/xr7PcWAMTXfVYKzXwa0XlRFwddJ8cPbkPphjo3TdOT5V1VVVUEQRCRHB0dnTAyMoI6/Pi6x1ICSZKmUEWhaBqWCEUpDh91+UX2UxSt0RRdPkspmqbzGxjWxh8nVwk3Asn/DAD+cp19f7ihM6sYvegBp9sDDkgT1jMyg3p1yOVyNeAj3mq1ajabbVs52ViWtXs8njsYhpHcbjd16623pTweT9uGxvPOscOoBuEkw6eKhbUs2q6jo32eBDfQ1bXl8fJtGLglSZLG87zIMOig1eh8Pj/e03PpzzKZTP+WLZ1fi0aj82Jazp9/6wuZTPqMxWK1xKZi58qPuVmw2UmOOt59G+j/yno7ahQNKgfQqo2Bu7MLrEkHWQiiE6iqyv+FxsbGJ5fr7/G4/bfeundOVQqF6vIXu7u/NTw8PMYwrMyyrL+6OvhQqRqgKGouEY+/KIiiMxwOPaAv/ggkSZJGR8eetVgsTHI2+bLLXTQpZjIZ4CwcOJz29T+xiJ3b7mYY5s23L17knU6nR1NVJpfPv53NZc/KsswrqrpgUSlK4myB4yZsqorOsLXHDl8jbGaSY6Te1zZA8iRaudbYx6FHF/ag1FasAJVv/xjS2z8OsqMSGCFLdFOaptccZOXxeFzpdPo/5rI5YXx8HG3jWz/84Q89VNomFpvsPXz4yEeam5t9dXW1ydIJIAhCYWxs7ONoR09g/LjdATW1tZDJZlB9qo5GG24rP+fQ0NBJnCgNDfP3DQwMvKRpGtPS0vK+ks2K319FRxoiv+ew2wMURWkMw3xkuafo3j17fmT8vnix+3cA4OW13pdrgc3sm72kf8KraLsYnkcVeg3tqwEAH7mfMjZoDEbgisAqPNCs1SA4GLEga4WmabWyIkOwOgjh+vC95SpOgSskcb/dbm9duNCjaJ/P50a7OCZu+Hw+2L5tO4TqQrBr585PtLe3f7p8ON3dPZ+/2N39qdJtqIcMDw/3yujVmr9d1TTN4bDbK1mWdTEMs6b4FE3ThPXck2uBzSzJMVoPjdM2AEBvxtga+6/FqnIvAPxUt+A8ZWzEpZnI2iEjM6DlM8AIHFFX8vm8jN+gm8/08Nd5B8TtRhskMy5W8RuzeAr5PNTX1zeUD0IUxCseN/GCsotZb9BBg7p4a0ur8TdZJ+C6YLGLCgQCPg20eZ4i1L0bGxs/0NTUNC9QjGEJqSs1TfOu4b6VYlF3/2bAZiY5rvQw22RWt6o0rBRkVYZfr7LdEwDw7cV2aFYH2AsJmOo5CTH/DvDmx0Akdm/PU+l05llMXhBFUbXb7bt3797101Lpm81m4+fOnd/PsqyIejS2iyfi4163l8Sj2O32BY6seCJxCa01xeydxa0mOHHQ24oBW8UgMeI8cpW3y2QyqXPnzx3ds3v3Ao+wKIqM4VRSFEXC3/F44kT/QP838vn8z6uq/I04BIy0xGtKpVLQ0BD5k0AgsKX0OKOjY9/lOO4NlmWo8Ylxc+G5DhiMcen6tX8NEh0XnMMrtEEWPQMAf7jIdgKZsYGTS0HXwI8g5tsGCoX2cRlJldQ/pJ2qqgskr6pqkqqqvVCSUCCJEnHeoO3a5XSVx4ggMXvRnU/puZOLAUmHVhV06aMXFU2JmWz66djU1OtEZdBQsaEsExOTR0VRlMbGxl8sFLgHFFUpOqA0gNnk7Ozw8Ii3qanpK263a4+maWI2l53q7Oj495OTsRd/fezY026Xa+4phXE36Uyabm5u/ihomqJfE32pt/dxvB5sh5Nus+JGsZM7daJX6Tr6SvbmlQKyOvSwgG3LNaI0DUSHAxpjr0M4+QaMB28DZ6p/TjcHnXQMwywgLAZ+MAxjpWlaRKnIsCxEG6IgyRLkc3mU5PPUAjTfaara66+sJM78lWJiKJqaayOKYn91MPgFhmUtGP+rAaiRSOSPnA5HHcdxCUmSxvVYH4KGaINd4HkuHA51oCUFiPUn9Af43dTU9KehcOgoJlVQxcAaTK/DicXJkiQUDavFedjR0fEaTVO2Qp7Ljk+MP7SW8IlriRvJ4+nQVRckOtqb+5Zpe2aZffjPfG61lQpQmls1DrYO/hgmPZ3AKQAOWVnWCVMOtGXHY5NEImIsS9G+zcwLTRUEIZVMpca8Hu+y3kXQdXFUeTBuBY/lcrmiHR0dn1220yqBx21rbb1nPV3fjfNfDdxosSt2XaLX6BJ9bBGyDgLAsSX6/wAAPrOWE6I0F2w2CM2cgi56EmZb9oJDiM8tJFcDbOtyuwEjAjFRgqYozIibV3NDUdSEzWaTcAG7WJzIvDHpkYtGkBfmjeI5cDJdD+Ry+SzP88sP+jriRgzQsurkri8heqnoe26RPrX69vVIKAIKdV1QSQisxVpMZFiJjHpPknyBKgo6bjCbCBMTrBbrPJILAp/CVDaXrgsve0Q99HYlJBKJ346MjH7d4XBQ5cdE9aixMfoXXq93nso2O5t8a3R09M+tVuuCGSwIglZbW/vx2tqah8r3bWbcqKG2Ll0vR4dRSP9t6Jzlqgo6Kf5hpXIMS0HDbBxBgLG626BHDYN85Tw4I2HwVfvIInLF/hjopalETfF6vYSgFgtbzzDMvMd7KpWawoUkVo5YjsBI1mJiBUM+yxUBslgsHo/H07UwqUMjyR9oDy/vg9vcbneXxcIueEiiKmO1WuvK++Dyw2KxbFqfy42cNOHUpTgSHW+8UffjcEkbdL3/1UZOwipFb3V386OgOPzgKEwTEtptduBtPElkXgpG0gOSo76+HkZGhmFmJg719eEIVp0qBVpiqvxVJCtoqScEkhqdQJhKd/bsGWhqbp7LHloMXq93i9fr/eZartfr9bR4vZ419bFYWGcul9tQqY2riRsnG3VxOHSi43/5bt3LmdSl+jMbJThKcStfgJHwnRDz7wZ3YQw0igG0X6iaSuK4UUIrirIgeg89ixjPgW2QiOjJnIzFCNEVRakqV+cnY7EeWVHAarUtSloVDyZK2aGhITh58gRRfYYGByFfKGA+qOV66eOIs2+ceerY8WMbiWC8qrgZcjztOtFRHcFYiwcA4Pu682hDYBUBJIsNzkUeAV7RwCYUSFYPJk4IoggiVq8iEllzlhMTy66hSoLBfRzHkxRRVC1omq5samp6pKwtqj59gsATKb7YgtbhsLlGR4dDJ0+dmhB4nqg+GAMzOTkJjU1N/Xab7Y9pmqFU9OCsADyfLMtaV9eWL3m93q7S1onEbPfly73fKurkC8aBE5f2er3tDrvditW7CoXCYDaT+16kfkOV764qbpZsfXT9T+rZ+vF3g+AIWuSA84Yh0LYb/HYPMAJL4kYi9ZHnamtr9imKSh4iDMNay1PQvF5PYPv2bYOosRQ5S8GFCxce+lcPPvj1aDQ6L+gM40hsNtvlWj09DosBlRPdYrGyB+478M9VVVU/E0VRRh3YSJZGIZ9Op3tJTpO28mIYJ5IsK5psBMmXAIsizc7OJm0224KyiaqiqgzL2Gpra9scDocL81Z9voqurq4tn7vUc+m7APBf13enry5uproraHe+oBM8ugqP54pAmUhrGlRXuED21gDD2YHjOQgGg+1ut7t+uf4MwzBer3decJnT6XR7PJ4FiR+o7gg8P4lCGOsbut3uQlfXlvJmWDFr1913371ro9e1HGpra7YdOnToZ2vt56+qfFcEy9XAja6Tl8Orqy4zGymqOQciyDRSDwWln6J/Y+HO9RwOkyxUVV1gDkmlUhOX+/ogNhVDlzv0D/Sfm00mJzY8/muIBA58k+JmIzkCo+mmdO/ouopXGkCOY2EhTtZAEniiGuBHEARary67pg/qwqIoUqV9cvl8/NiJEx9DM5+xSAWKko8cOXIonU6PaiWlKTbrJ5FI9Jw6deof3tX/4ruIm7Xgp0cnumcVIQBLgrbawSJl4LfHj0CCrQGPnCRmnNOnf/sxiqJ8i8Wrl9ZIMUyBRu1Biqb7Xnn11Uc1Va3QADDQiQ0EAv25fD6NBYawPVpN0JOZSCTOvfbaa6gW7aUZRr7eVWMN/dyoA1MyHrZQKBxXZNn0eF4HuPVwXbS6dOoJGGuCSNvBIaZgx8hz8E81nwBKE4DWiAQeWMyWbXhBjZJuGJSFAU7EqkJREAgGUXIPCFizRe+D5d5QiufyeayTWHzlRTGTCL/4TDb7GzQPGsQi511D3MyGoI+F1hOmjRIcxt/GPcDxL1ZFbLPgZq9P7tUraKE0v0VfmK4axCwiAdT6NQhH6sEhpUCTJaJSoORdUHeFApAlGWYTs0SXx/Q0NGAk4nESioq/SelnWSbH1vQJ4K2oIMWK8DeSPh6Pk7BcTKDAsFx0JmHRT730w5zqg+2JRC3hPP6NxY8MJ1GxVJ0I5SHqaOvHAkVYLsNI6kDTKIYWGO2Q4pgkjfuxWhieG1UqdIChfwBDEDBCEd90cT3t9CvhX8KbJtDlv10vCHqgzCO6LCwKB6LNBWeiHwOGtYFFAVAYBklHWW02uvwRrYHGqLImYyAWVp9FMx86hVwej2az24m3EmsecgWOSGM091X6/STT5403zkLflSskIYJELcbjhITo5sffSDIkLkp4owgoTgiD9AaQ4JhMYcSaIylra2qLE6OkIhfu4zkeclhgVC2GHdRWzm+HEyCeiJMFMVV8+QCaFRmsc47n5zmOJFSoigKh8HqzFK8+bmaSY6b/N8uqOh1ZE9EFHgRfBNr2vhfanT6ghDD5x0Ybo69V+f33ljeXJIlLJlO9R48efdDusI/ftX//WDKVPNt7qe9BdNfbHXZojDbOizfB34YqYCREEAksS1gTnDwBcJukS0vU2ZG4SHYMAyDeVOmdpQEGj6GkffPNN0gw2fbtxTxQlNJaiZ8ISY0EnpicIMduiDRArf7kMdrh+VANwScKTpzmluYfVQeD7+vru3J/Lpc7ixMT43dw4l4zFWoduBlJ/jQA/Gf0Ni+x/4ie07lsUX4ChgJalSA9PQ68UwKLmAVJLyaUSiYnaJrSs2SKJSOi0WhTdXVwRzgc+mR//8BXPB5PHVBUp89XAVPTU5Av5CFQFQDjzWwGjIpcjP6tqirlcDo1q8UyNyEwcAoJZ5gvkfhIPEPVMIBmTuNvwxqDtv051UYHhiWUbsNJhuMiJNe3abxGJhFJk5MVnFS4EK7O5XLTR48emZtwkiAQdWuz4mYheV7P03xmlWUojuqxLsvmgdIWG9BiDi6fOwFTjmZwyWlQVBWryj6K+ug75NIglUrDHXfe8fite/d+R1EUq5HErEhyAt36AwMDWGqZpWnaURplqL2zuJPSySRfHw5vuf/++58/cuTw3fl8IYWL0ZmZGfjg7//+r1LJ1IkTr594MhQKGfHsntIsJShZFDIMLXI8L+hPCo9h8Slrp1mt1hyOVVU19KC6StsZEY+jo6NSKpXid+3eRYLgeJ77RCgUurR161ZM+6NURaGcbvcba13zXCvc6CQf14OwnltHObjfAMDvAcAvl2qgiAKoLi/s2ncfCN4IsFyKSMWmxuYfhEK1+D4dX0k8KuZXYFkLJMecaLVYrXDlSh+Ew+EP3Hvvvf/F7XbVGTp0SfJDbmRk+H8nEonPBYPBuxsikVs6Ozv/wyuvvPokkq6pubmjpbl5//T0dEg8Kj7JcRx12623/rKuru4glscwrDkGkLSHD7/mqfL72dtvv/1Mpc/XWVSJ1HlaBU6+8YlxqrKycvudd97+osfjCRvSHy8LaxvJspwbGxv9yfDw0L+lKQrj8vFdn18uv1e6k2tTmlhuVJKjKvINAPhn3XqyXvwKAH5X/14I4tdnwen2gY1YEorZNy6Xcx/mh5a/pwd/xmJT5y9f7vt+TW1N0V+qaQqqKrffftvjSPDx8YnnFUWOFSUmcfXvq6ry78HYb6KzNzZ+EPvt3LHzsbGx8W+Pjo5Ob926lbzZrbq6urmmpqY+Njk5UV9f/zuyLEtXrvT/rcNhN6x9RD9OpsiLAXJ3333Ph/yVlZ3ZbHY4kUi8YLFY9dgWtNIw+HrEzJW+Pnzn0WNI8MnJ2FGO485ZrRZyPIuFjdTW1j5UWemL4Bst+vqv/FV1MNgpywp5dOAkyGZzUBWoerimunrrtSTAWrCZSb6Y9+NlXXKv2kKyCrykJ1a8pDd9Z9JQRYVbEgWiizMYeSiKxD2Pu48fP94RT8RzdruD0t98TE9MjI/iq1Dqauqsc3blYiAVCUwfGRn5CKoaNpsdEokZqK0N/XFVlf/vRVEca2tth4ZIBCcdWlCs9fX1v5tKpp6ONkQfMIbU0d6xbWJiglQsmJyM/VN3d89jtTU1RBdHYqKuLUsihMP1mANKTB5DQ0P/88qV/q+2tbURPRzHhWNMZzLEcsMyDEme6O3tvU9RFNXnQzPmDCZL1yDJGZoVU8kUTExM/B80KWYyWTIWVNlOnDiO5SqoQ4cOmSRfB4xsdk1/XQpGuXVfpXO9XEL05vKdht77zocihXQqK6su87wAqXSK6K5IIFyINTY2EtLp3k+2aN9myL2ORhueFkVpCtvFYhMv8LyR4K458EVX8Xj8daO8c0d7+9cCVVUftdttc2MZHhkeBk0jG4LVwfu6ujr/GkvGGZiJzxw/dertF2pra/BVLwOhUB2SvTOTyxKrSzAQBEEUyCSbGO8hi02rzUaylDq3dL5UyBfewjdiZLLpN5PJJLnfmqaK2Mdutx9qiEQ+ks5kpnArhhnfc889WBvyg1fp//KuYDOTfEYv1/ztNRYVWi+Q6J/XU+vmwYgzod6JOSEl1CgKvJH6SAbNdmhpwAng91cR81wulyMxKpqqVuILZadn4r/s0uBAKBT6mHFsv79K4zgO1wawffvOz1zs7vneCz/72cH9+/d/P9rQ8HBFRUUUP8izycnYW0PDg1+NxWIXXW63M5VOJ3wVFVWtra1fLB1rfX34i1NTU18+f+7c13me/7nT5cQXFkTJpJqKEUlfH64nr2PBtQK+8HZsfPy57du3f7C2pgZrI5L6iKG6uvPT09OkTEVDtPEDnVu6bhkeGRm45T3vuTMSqZ8TBOFwiHwrirJpzSubmeR4I5fOLbs6+F7pUdFhIqgqDA0PQcGeA6uUg6IlQn2wstLn6uu7nMdsCLSBG6XiUJ3B9qgv9/X17eN5IYdx193d3X/tdDhfwdeOYBt87088Hh+UZEkYGhre53Q6vfg+ocuXL+cHBgb+aHBg8IkDB+49Yrfbb3nxF794L8/xhwPBAHlKxOPxwuuvv761pbmlxbCtG7DZbM7m5mZ398WLFJr1BoaGHksmEr58Lgd5CkhRIix7gdoTPmGwzgu+2e21w4fPVQer/biGsNmszMjIyJQgCBPnz791e01Nja+tpVXuudTTc/zEiZbWltY73G4XhQkkxvnHJ8bN146vA9ea4EsCycJpHChSsRYix3HnUVpzPD9XAwV13Lk3vhUdL2qhwJ1ACwYpQ0HT6LV8EzN6UMWhgS5GNcoSHu+EYbPGCYAx5el0etZut70UCoWY11599SSeo729gyRt4DFEUZzK5wtTOMGKyRtFoL6PXkyccMXa5Sy2TeG48W8jkhL345gw5Q6vBat3OexOsjCVJDsZI5I3m82ewhAGVGvQZo7XmMvlXse+oiiBcf58ftNmv5kwYcKECRMmTJgwYcKECRMmTJgwYcKECRMmTJgwYcKECRMmTJgwYcKECRMmTJgwYcKEiX+JAID/D1AonT0EpkxmAAAAAElFTkSuQmCC",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/playcrab/24831#/jobs?zhineng=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/apply/playcrab/24831#/?anchorName=8209972193&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"其他",
+            "json_domain":"https://app.mokahr.com/apply/playcrab/24831",
+            "func_name":"gen_50057"
+
+           }
+           ]
+com_00133 = [
+           {
+            "com_name":"成都沸彻科技有限公司",
+            "com_webname" :"成都沸彻科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/510cf632-89f6-4f82-b164-584f0817aa78.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/36kr-med/4734#/jobs?zhineng=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/apply/fitureslim/25213#/?anchorName=default_banner&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"其他",
+            "json_domain":"https://app.mokahr.com/apply/fitureslim/25213",
+            "func_name":"gen_50057"
+
+           }
+           ]
+com_00134 = [
+           {
+            "com_name":"北京多氪信息科技有限公司",
+            "com_webname" :"北京多氪信息科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/3a411fef-d4a2-4cb3-83cc-7c5788cb9122.jpeg",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/36kr-med/4734#/jobs?zhineng=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/apply/36kr-med/4734#/?anchorName=default_banner&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"其他",
+            "json_domain":"https://app.mokahr.com/apply/36kr-med/4734",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00135 = [
+           {
+            "com_name":"广州中望龙腾软件股份有限公司",
+            "com_webname" :"广州中望龙腾软件股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/575cd9e4-c448-41d5-955d-1352fcc1e97a.jpg",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/zwcad/28355#/jobs"
+
+            },
+            "pre_open_url":"https://www.zwsoft.cn/",
+            "template":"template_50015",
+            "hd_all_location":"其他",
+            "json_domain":"https://app.mokahr.com/apply/zwcad/28355",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00136 = [
+           {
+            "com_name":"特斯拉汽车（北京）有限公司 ",
+            "com_webname" :"特斯拉汽车（北京）有限公司 ",
+            "com_logo" : "https://public-cdn.mokahr.com/tesla/cf681ee7-c79f-46e4-8c2f-65005b38c208.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/tesla/46129#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/tesla/46129#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,天津市,重庆市,安徽,福建,甘肃,广东,广西,贵州,海南,河北,河南,黑龙江,湖北,湖南,吉林,江苏,江西,辽宁,内蒙古,宁夏,青海,山东,山西,陕西,四川,西藏,新疆,云南,浙江",
+            "json_domain":"https://app.mokahr.com/social-recruitment/tesla/46129",
+            "func_name":"gen_50059"
+
+           }
+           ]
+com_00137 = [
+           {
+            "com_name":"特斯拉汽车（北京）有限公司 ",
+            "com_webname" :"特斯拉汽车（北京）有限公司 ",
+            "com_logo" : "https://public-cdn.mokahr.com/tesla/cf681ee7-c79f-46e4-8c2f-65005b38c208.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/tesla/55955#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/tesla/46129#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,天津市,重庆市,安徽,福建,甘肃,广东,广西,贵州,海南,河北,河南,黑龙江,湖北,湖南,吉林,江苏,江西,辽宁,内蒙古,宁夏,青海,山东,山西,陕西,四川,西藏,新疆,云南,浙江",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/tesla/55955",
+            "func_name":"gen_50059"
+
+           }
+           ]
+com_00138 = [
+           {
+            "com_name":"上海盒马网络科技有限公司",
+            "com_webname" :"上海盒马网络科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/40e1a98c-2408-4fb1-be62-49d26f4cfb1e.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/freshhema/4121#/jobs?zhineng=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/apply/freshhema/4121#/?anchorName=default_banner&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"武汉市,上海市,杭州市",
+            "json_domain":"https://app.mokahr.com/apply/freshhema/4121",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00139 = [
+           {
+            "com_name":"高途教育科技集团有限公司",
+            "com_webname" :"高途教育科技集团有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/bjhl/66223d2e-16f7-4722-80e7-9057ca8d56db.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus_apply/bjhl/102145#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/bjhl/102145#/",
+            "template":"template_50010",
+            "hd_all_location":"武汉市,上海市,杭州市",
+            "json_domain":"https://app.mokahr.com/campus_apply/bjhl/102145",
+            "func_name":"gen_50059"
+
+           }
+           ]
+com_00140 = [
+           {
+            "com_name":"天弘基金管理有限公司",
+            "com_webname" :"天弘基金管理有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/thfund/24172dec-8846-4966-b8c7-a1c09d258251.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/thfund/46218#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/thfund/46218#/",
+            "template":"template_50010",
+            "hd_all_location":"武汉市,上海市,杭州市",
+            "json_domain":"https://app.mokahr.com/social-recruitment/thfund/46218",
+            "func_name":"gen_50059"
+
+           }
+           ]
+com_00141 = [
+           {
+            "com_name":"北京搜狐新媒体信息技术有限公司",
+            "com_webname" :"北京搜狐新媒体信息技术有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/595780ae-a203-498a-af36-e6bb2f5e1e2c.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus_apply/sohu/28313#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/sohu/28313#/",
+            "template":"template_50015",
+            "hd_all_location":"北京市,上海市,天津市,广州市",
+            "json_domain":"https://app.mokahr.com/campus_apply/sohu/28313",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00142 = [
+           {
+            "com_name":"新浪网技术（中国）有限公司",
+            "com_webname" :"新浪网技术（中国）有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sina/c8c80927-a6c5-45fd-b046-5e24e1a1d529.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/sina/43536#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/sina/43535?locale=zh-CN#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,杭州市,广州市,济南市,天津市,南昌市,石家庄市,南京市,郑州市,武汉市,西安市,中国香港,深圳市,厦门市,合肥市",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/sina/43536",
+            "func_name":"gen_50060"
+
+           }
+           ]
+com_00143 = [
+           {
+            "com_name":"新浪网技术（中国）有限公司",
+            "com_webname" :"新浪网技术（中国）有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sina/c8c80927-a6c5-45fd-b046-5e24e1a1d529.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/sina/43535?locale=zh-CN#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/sina/43535?locale=zh-CN#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,杭州市,广州市,济南市,天津市,南昌市,石家庄市,南京市,郑州市,武汉市,西安市,中国香港,深圳市,厦门市,合肥市",
+            "json_domain":"https://app.mokahr.com/social-recruitment/sina/43535",
+            "func_name":"gen_50060"
+
+           }
+           ]
+com_00144 = [
+           {
+            "com_name":"乐元素科技（北京）股份有限公司",
+            "com_webname" :"乐元素科技（北京）股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sina/c8c80927-a6c5-45fd-b046-5e24e1a1d529.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/leyuansu/2358#/jobs?commitment=&page=1"
+
+            },
+            "pre_open_url":"https://leyuansu.com/",
+            "template":"template_50015",
+            "hd_all_location":"北京市,上海市,杭州市,广州市,济南市,天津市,南昌市,石家庄市,南京市,郑州市,武汉市,西安市,中国香港,深圳市,厦门市,合肥市",
+            "json_domain":"https://app.mokahr.com/apply/leyuansu/2358",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00145 = [
+           {
+            "com_name":"乐元素科技（北京）股份有限公司",
+            "com_webname" :"乐元素科技（北京）股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sina/c8c80927-a6c5-45fd-b046-5e24e1a1d529.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus_apply/leyuansu/2357#/jobs"
+
+            },
+            "pre_open_url":"https://leyuansu.com/",
+            "template":"template_50015",
+            "hd_all_location":"北京市,上海市,杭州市,广州市,济南市,天津市,南昌市,石家庄市,南京市,郑州市,武汉市,西安市,中国香港,深圳市,厦门市,合肥市",
+            "json_domain":"https://app.mokahr.com/campus_apply/leyuansu/2357",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00146 = [
+           {
+            "com_name":"星环信息科技（上海）股份有限公司",
+            "com_webname" :"星环信息科技（上海）股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/transwarp/83cee05e-a8a1-4160-8a1a-2b6620ae5e99.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/transwarp/140922#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/transwarp/140922#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,湖南省,江苏省",
+            "json_domain":"https://app.mokahr.com/social-recruitment/transwarp/140922",
+            "func_name":"gen_50060"
+
+           }
+           ]
+com_00147 = [
+           {
+            "com_name":"星环信息科技（上海）股份有限公司",
+            "com_webname" :"星环信息科技（上海）股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/transwarp/83cee05e-a8a1-4160-8a1a-2b6620ae5e99.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/transwarp/3196?locale=zh-CN#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/transwarp/140922#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,湖南省,江苏省",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/transwarp/3196",
+            "func_name":"gen_50061"
+
+           }
+           ]
+com_00148 = [
+           {
+            "com_name":"博世 (中国)投资有限公司",
+            "com_webname" :"博世 (中国)投资有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/bosch/3bfb618e-5bfb-4566-bb43-3bd1c3bb26a0.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/bosch/73873#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus-recruitment/bosch/73873#/",
+            "template":"template_50010",
+            "hd_all_location":"苏州市,上海市,无锡市,长沙市,杭州市,北京市,西安市,南京市,常州市",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/bosch/73873",
+            "func_name":"gen_50061"
+
+           }
+           ]
+com_00149 = [
+           {
+            "com_name":"博世 (中国)投资有限公司",
+            "com_webname" :"博世 (中国)投资有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/bosch/3bfb618e-5bfb-4566-bb43-3bd1c3bb26a0.png",
+            "urls":{
+                    "shixi_1":"https://app.mokahr.com/campus-recruitment/bosch/67942#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus-recruitment/bosch/73873#/",
+            "template":"template_50010",
+            "hd_all_location":"苏州市,上海市,无锡市,长沙市,杭州市,北京市,西安市,南京市,常州市",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/bosch/67942",
+            "func_name":"gen_50061"
+
+           }
+           ]
+com_00150 = [
+           {
+            "com_name":"厦门飞鱼科技有限公司",
+            "com_webname" :"厦门飞鱼科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/feiyu/aa0fb639-7b27-4104-8318-8932da2c3e43.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/feiyu/142123#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/feiyu/142142#/",
+            "template":"template_50010",
+            "hd_all_location":"厦门市,北京市,新加坡",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/feiyu/142123",
+            "func_name":"gen_50061"
+
+           }
+           ]
+com_00151 = [
+           {
+            "com_name":"厦门飞鱼科技有限公司",
+            "com_webname" :"厦门飞鱼科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/feiyu/aa0fb639-7b27-4104-8318-8932da2c3e43.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/feiyu/142142#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/social-recruitment/feiyu/142142#/",
+            "template":"template_50010",
+            "hd_all_location":"厦门市,北京市,新加坡",
+            "json_domain":"https://app.mokahr.com/social-recruitment/feiyu/142142",
+            "func_name":"gen_50061"
+
+           }
+           ]
+com_00152 = [
+           {
+            "com_name":"携程旅游网络技术（上海）有限公司",
+            "com_webname" :"携程旅游网络技术（上海）有限公司",
+            "com_logo" : "https://ws-s.tripcdn.cn/modules/hrteam/careers-tri…ip_logo_blue.090629cb7d291166eb47b7306015588a.svg",
+            "urls":{
+                    "shezhao_1":"https://job.ctrip.com/index.html#/jobList"
+
+            },
+            "pre_open_url":"https://job.ctrip.com/index.html#/",
+            "template":"template_50016",
+            "hd_all_location":"上海,北京,南通,广州,深圳,成都",
+            "json_domain":"https://job.ctrip.com/index.html",
+            "func_name":"gen_50062"
+
+           }
+           ]
+com_00153 = [
+           {
+            "com_name":"深圳虾皮信息科技有限公司",
+            "com_webname" :"深圳虾皮信息科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/shopee/cf6b96d2-9e2d-483c-9ea9-b077d6543e47.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus_apply/shopee/2962#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/shopee/2962#/",
+            "template":"template_50010",
+            "hd_all_location":"上海,北京,深圳",
+            "json_domain":"https://app.mokahr.com/campus_apply/shopee/2962",
+            "func_name":"gen_50063"
+
+           }
+           ]
+com_00154 = [
+           {
+            "com_name":"深圳虾皮信息科技有限公司",
+            "com_webname" :"深圳虾皮信息科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/shopee/cf6b96d2-9e2d-483c-9ea9-b077d6543e47.png",
+            "urls":{
+                    "shixi_1":"https://app.mokahr.com/campus-recruitment/shopee/140513#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/shopee/2962#/",
+            "template":"template_50010",
+            "hd_all_location":"上海,北京,深圳",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/shopee/140513",
+            "func_name":"gen_50063"
+
+           }
+           ]
+com_00155 = [
+           {
+            "com_name":"深信服科技股份有限公司",
+            "com_webname" :"深信服科技股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sangfor/97bcd146-5514-4822-8cc3-14d02fdf8314.png",
+            "urls":{
+                    "shixi_1":"https://app.mokahr.com/campus_apply/sangfor/6146#/jobs?zhineng=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/sangfor/6146#/?anchorName=3875639295&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"深圳市,长沙市,北京市,成都市,南京市,上海市",
+            "json_domain":"https://app.mokahr.com/campus_apply/sangfor/6146",
+            "func_name":"gen_50064"
+
+           }
+           ]
+com_00156 = [
+           {
+            "com_name":"深信服科技股份有限公司",
+            "com_webname" :"深信服科技股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sangfor/97bcd146-5514-4822-8cc3-14d02fdf8314.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/sangfor/5367#/jobs?zhineng=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/sangfor/6146#/?anchorName=3875639295&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"深圳市,长沙市,北京市,成都市,南京市,上海市",
+            "json_domain":"https://app.mokahr.com/apply/sangfor/5367",
+            "func_name":"gen_50064"
+
+           }
+           ]
+com_00157 = [
+           {
+            "com_name":"深信服科技股份有限公司",
+            "com_webname" :"深信服科技股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/sangfor/97bcd146-5514-4822-8cc3-14d02fdf8314.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus_apply/sangfor/27944#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus_apply/sangfor/6146#/?anchorName=3875639295&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"深圳市,长沙市,北京市,成都市,南京市,上海市",
+            "json_domain":"https://app.mokahr.com/campus_apply/sangfor/27944",
+            "func_name":"gen_50064"
+
+           }
+           ]
+com_00158 = [
+           {
+            "com_name":"神马电力集团",
+            "com_webname" :"神马电力集团",
+            "com_logo":"https://portal-oss.zhiye.com/108050/image/ef075158-8d4b-4761-89ac-b0255ffbe9cc.png",
+            "urls":{
+                    "shezhao_1":"https://shenma.zhiye.com/social/jobs",
+                    "xiaozhao_1":"https://shenma.zhiye.com/campus/jobs"
+
+            },
+            "pre_open_url":"https://shenma.zhiye.com/",
+            "template":"template_50014",
+            "hd_all_location":"上海市,浙江省,福建省,江西省,天津市,北京市,山西省,甘肃省,新疆维吾尔自治区",
+            "json_domain":"https://shenma.zhiye.com",
+            "func_name":"gen_50065"
+
+
+           }
+           ]
+com_00159 = [
+           {
+            "com_name":"广州趣丸网络科技有限公司",
+            "com_webname" :"广州趣丸网络科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/52tt/f57b2d68-e3c8-4b67-9cb6-2e97f860d854.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/52tt/94968#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://www.quwangroup.com/",
+            "template":"template_50010",
+            "hd_all_location":"广州市,上海市",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/52tt/94968",
+            "func_name":"gen_50063"
+
+           }
+           ]
+com_00160 = [
+           {
+            "com_name":"广州趣丸网络科技有限公司",
+            "com_webname" :"广州趣丸网络科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/52tt/f57b2d68-e3c8-4b67-9cb6-2e97f860d854.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/social-recruitment/52tt/45125#/jobs?keyword="
+
+            },
+            "pre_open_url":"https://www.quwangroup.com/",
+            "template":"template_50010",
+            "hd_all_location":"广州市,上海市",
+            "json_domain":"https://app.mokahr.com/social-recruitment/52tt/45125",
+            "func_name":"gen_50063"
+
+           }
+           ]
+com_00161 = [
+           {
+            "com_name":"德邦证券股份有限公司",
+            "com_webname" :"德邦证券股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/imtebon/70a4855a-6797-4aae-8245-8d9ae9d6e406.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/campus-recruitment/imtebon/74049#/jobs"
+
+            },
+            "pre_open_url":"https://www.tebon.com.cn/main/index.html?r=0.8113465847388919",
+            "template":"template_50010",
+            "hd_all_location":"其它",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/imtebon/74049",
+            "func_name":"gen_50061"
+
+           }
+           ]
+com_00162 = [
+           {
+            "com_name":"上汽通用五菱汽车股份有限公司",
+            "com_webname" :"上汽通用五菱汽车股份有限公司",
+            "com_logo":"https://wecruit-cdn.hotjob.cn/files/oline/SGMW/80b237bb-5cc4-4aed-801b-4a95e2cb2b70.png",
+            "urls":{
+                    "xiaozhao_1":"https://zhaopin.sgmw.com.cn/SU611bbe3c2f9d24229e014abb/pb/school.html",
+                    "shezhao_1":"https://zhaopin.sgmw.com.cn/SU611bbe3c2f9d24229e014abb/pb/social.html",
+                    "shixi_1":"https://zhaopin.sgmw.com.cn/SU611bbe3c2f9d24229e014abb/pb/interns.html"
+
+
+
+            },
+            "pre_open_url":"https://zhaopin.sgmw.com.cn/SU611bbe3c2f9d24229e014abb/pb/index.html#/",
+            "template":"template_50005",
+            "hd_all_location":"上海,广西壮族自治区",
+            "json_domain":"https://zhaopin.sgmw.com.cn",
+            "func_name":"gen_50066",
+            "page_count":"Y"
+           }
+           ]
+com_00163 = [
+           {
+            "com_name":"晶科电力科技股份有限公司",
+            "com_webname" :"晶科电力科技股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/jinko/ef57610b-4d3b-4261-aad3-ed4cb0ad38e9.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/jinko/46987#/jobs?page=1&anchorName=jobsList"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus-recruitment/jinko/46987#/",
+            "template":"template_50010",
+            "hd_all_location":"山西,上海市,河北省",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/jinko/46987",
+            "func_name":"gen_50063"
+
+           }
+           ]
+com_00164 = [
+           {
+            "com_name":"康龙化成（北京）新药技术股份有限公司",
+            "com_webname" :"康龙化成（北京）新药技术股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/pharmaron/4e00b0d6-243f-43b9-b7bc-4832f1858049.png",
+            "urls":{
+                    "xiaozhao_1":"https://app.mokahr.com/campus-recruitment/pharmaron/44352#/jobs"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/campus-recruitment/pharmaron/68075#/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,宁波市,绍兴市,天津市,西安市,上海市,沈阳市,重庆市,石家庄市,青岛市,郑州市,武汉市",
+            "json_domain":"https://app.mokahr.com/campus-recruitment/pharmaron/44352",
+            "func_name":"gen_50067"
+
+           }
+           ]
+com_00165 = [
+           {
+            "com_name":"深圳市新国都股份有限公司",
+            "com_webname" :"深圳市新国都股份有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/671aa95d-ca54-4553-8d38-019dc084b808.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/xgd/7849#/jobs?zhineng=54059"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/apply/xgd/7849#/?anchorName=default_banner&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"深圳市,上海市,广州市,济南市,澳门,成都市,杭州市,南宁市",
+            "json_domain":"https://app.mokahr.com/apply/xgd/7849",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00166 = [
+           {
+            "com_name":"北京智者天下科技有限公司",
+            "com_webname" :"北京智者天下科技有限公司",
+            "com_logo" : "https://public-cdn.mokahr.com/d0473580-1805-41e6-abfa-2a8d174946e2.png",
+            "urls":{
+                    "shezhao_1":"https://app.mokahr.com/apply/zhihu/3819#/jobs?location=&page=1"
+
+            },
+            "pre_open_url":"https://app.mokahr.com/apply/zhihu/3819#/?anchorName=000&sourceToken=",
+            "template":"template_50015",
+            "hd_all_location":"北京市,成都市,南京市",
+            "json_domain":"https://app.mokahr.com/apply/zhihu/3819",
+            "func_name":"gen_50058"
+
+           }
+           ]
+com_00167 = [
+           {
+            "com_name":"度小满科技（北京）有限公司 ",
+            "com_webname" :"度小满科技（北京）有限公司 ",
+            "com_logo" : "https://public-cdn.mokahr.com/duxiaoman/d2d76898-70d6-4ce7-a2a3-67a53fa897b5.png",
+            "urls":{
+                    "zhezhao_1":"https://talent.duxiaoman.com/apply/duxiaoman/100409#/jobs"
+
+            },
+            "pre_open_url":"https://www.duxiaoman.com/",
+            "template":"template_50010",
+            "hd_all_location":"北京市,上海市,其他",
+            "json_domain":"https://talent.duxiaoman.com/apply/duxiaoman/100409",
+            "func_name":"gen_50067"
+
+           }
+           ]
+com_00168 = [
+           {
+            "com_name":"度小满科技（北京）有限公司 ",
+            "com_webname" :"度小满科技（北京）有限公司 ",
+            "com_logo" : "https://public-cdn.mokahr.com/duxiaoman/d2d76898-70d6-4ce7-a2a3-67a53fa897b5.png",
+            "urls":{
+                    "xiaozhao_1":"https://campus.duxiaoman.com/051736/position/list?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag="
+
+            },
+            "pre_open_url":"https://www.duxiaoman.com/",
+            "template":"template_50017",
+            "hd_all_location":"北京市,上海市,其他",
+            "json_domain":"https://campus.duxiaoman.com",
+            "func_name":"gen_50068"
+
+           }
+           ]
+com_00169 = [
+           {
+            "com_name":"马上消费金融股份有限公司 ",
+            "com_webname" :"马上消费金融股份有限公司 ",
+            "com_logo" : "https://lf3-atsx-tob.feishucdn.com/obj/static-atsx-online-ee-tob/fecb46ccc4454ac82009c48ff8d0dd1f/40aa44b9ff555694ddfae3268d31644877eeb50a5c7619fd7a3cd04a8866657b.png",
+            "urls":{
+                    "shezhao_1":"https://weikezhijia.jobs.feishu.cn/MSXF/position/list?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&storefront_id_list=",
+                    "xiaozhao_1":"https://weikezhijia.jobs.feishu.cn/MSXF0619/position/list"
+
+            },
+            "pre_open_url":"https://www.msxf.com/about_us",
+            "template":"template_50017",
+            "hd_all_location":"重庆,北京,成都,深圳,上海,杭州,武汉",
+            "json_domain":"https://weikezhijia.jobs.feishu.cn",
+            "func_name":"gen_50068"
+
+           }
+           ]
+com_00170 = [
+           {
+            "com_name":"上海识装信息科技有限公司 ",
+            "com_webname" :"上海识装信息科技有限公司 ",
+            "com_logo" : "https://lf3-atsx-tob.feishucdn.com/obj/static-atsx-online-ee-tob/939416d59711a3ad896a1b64e01fff97/466693405080376f8e50dfd3497d5c4c31cbe301fd90b30fd7170761d684f187.jpg",
+            "urls":{
+                    "shezhao_1":"https://poizon.jobs.feishu.cn/index/position/list",
+                    "xiaozhao_1":"https://poizon.jobs.feishu.cn/578078/position/list?keywords=&category=&location=&project=7532800693679147274%%2C7532799638904342825&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+                    "shixi_1" :"https://poizon.jobs.feishu.cn/578078/position/list?keywords=&category=&location=&project=7309753987297167679&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag="
+
+            },
+            "pre_open_url":"https://poizon.jobs.feishu.cn/index/",
+            "template":"template_50017",
+            "hd_all_location":"上海,杭州,长沙,北京,廊坊,武汉,广州",
+            "json_domain":"https://poizon.jobs.feishu.cn",
+            "func_name":"gen_50068"
+
+           }
+           ]
+com_00171 = [
+           {
+            "com_name":"英科再生",
+            "com_webname" :"英科再生",
+            "com_logo" : "https://lf3-atsx-tob.feishucdn.com/obj/static-atsx-online-ee-tob/73079d3e7bb746679aaacd8795f4b184/c07e96b8d10119b34c5a5dce7d0a2d2987e58f2260871a2adfea9d614d8262e1.jpg",
+            "urls":{
+                    "shezhao_1":"https://global-intco.jobs.feishu.cn/index/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&storefront_id_list=",
+                    "xiaozhao_1":"https://global-intco.jobs.feishu.cn/251907/position/list?keywords=&category=&location=&project=7527104938967664923&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+                    "shixi_1" :"https://global-intco.jobs.feishu.cn/251907/position/list?keywords=&category=&location=&project=7269594971869563196&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag="
+
+            },
+            "pre_open_url":"https://www.intco.com.cn/",
+            "template":"template_50017",
+            "hd_all_location":"上海,杭州,长沙,北京,廊坊,武汉,广州",
+            "json_domain":"https://global-intco.jobs.feishu.cn",
+            "func_name":"gen_50068"
+
+           }
+           ]
+com_00172 = [
+           {
+            "com_name":"上海哔哩哔哩科技有限公司",
+            "com_webname" :"上海哔哩哔哩科技有限公司",
+            "com_logo" : "https://s1.hdslb.com/bfs/templar/york-static/egGNHG9P4Vz5KY6e.png",
+            "urls":{
+                    "shezhao_1":"https://jobs.bilibili.com/social/positions?isTrusted=true",
+                    "xiaozhao_1":"https://jobs.bilibili.com/social/positions?isTrusted=true",
+                    "shixi_1" :"https://jobs.bilibili.com/campus/positions?practiceTypes=1&type=0"
+
+            },
+            "pre_open_url":"https://jobs.bilibili.com/",
+            "template":"template_50018",
+            "hd_all_location":"上海,北京,广州,南京,成都,武汉,珠海市,芜湖,重庆,首尔",
+            "json_domain":"https://jobs.bilibili.com",
+            "func_name":"gen_50069"
+
+           }
+           ]
+com_00173 = [
+           {
+            "com_name":"华硕科技（苏州）有限公司是",
+            "com_webname" :"华硕科技（苏州）有限公司",
+            "com_logo":"https://portal-oss.zhiye.com/105257/image/00b9fee3-5eea-476d-bd71-13f004f375c5.png",
+            "urls":{
+                    "shezhao_1":"https://asustek.zhiye.com/social/jobs",
+                    "xiaozhao_1":"https://asustek.zhiye.com/campus",
+                    "shixi_1":"https://asustek.zhiye.com/intern/jobs"
+
+            },
+            "pre_open_url":"https:///asustek.zhiye.com/jobs",
+            "template":"template_50014",
+            "hd_all_location":"上海市,苏州市,东莞市,桂林市",
+            "json_domain":"https://asustek.zhiye.com",
+            "func_name":"gen_50070"
+
+
+           }
+           ]
+com_00174 = [
+           {
+            "com_name":"高视医疗科技集团有限公司",
+            "com_webname" :"高视医疗科技集团有限公司",
+            "com_logo":"//stcms.beisen.com/image/106774/5597336923bf4565b94131baf4c5e954_o.png?sig_t=1662013775&sig_exp=2592000&sig_a=recruitment&sig_pm=8&sig_npm=2&sig_v=1&sig=6dcdc22cb729656d851285822629eec58717a141",
+            "urls":{
+                    "shezhao_1":"https://gaush.zhiye.com/social/jobs",
+                    "xiaozhao_1":"https://gaush.zhiye.com/campus/jobs"
+
+            },
+            "pre_open_url":"https://gaush.zhiye.com/jobs",
+            "template":"template_50014",
+            "hd_all_location":"北京市",
+            "json_domain":"https://gaush.zhiye.com",
+            "func_name":"gen_50070"
+
+
+           }
+           ]
+com_00175 = [
+           {
+            "com_name":"深圳市道通智能航空技术股份有限公司",
+            "com_webname" :"深圳市道通智能航空技术股份有限公司",
+            "com_logo" : "https://lf3-atsx-tob.feishucdn.com/obj/static-atsx-online-ee-tob/6413363e66753632ece2956066d92428/49830830a49ed1f9d7a286de0e94781b84d976452a9817e56b6106474190e4fb.png",
+            "urls":{
+                    "shezhao_1":"https://iwpirwbutbu.jobs.feishu.cn/index/position/list"
+
+            },
+            "pre_open_url":"https://iwpirwbutbu.jobs.feishu.cn/index/",
+            "template":"template_50017",
+            "hd_all_location":"深圳,北京,西安",
+            "json_domain":"https://iwpirwbutbu.jobs.feishu.cn",
+            "func_name":"gen_50068"
+
+           }
+           ]
+com_00176 = [
+           {
+            "com_name":"中移系统集成公司",
+            "com_webname" :"中移系统集成公司",
+            "com_logo" : "/wt/XAYJY/web/img!viewWebSiteLogo?brandCode=1&operational=0f66f76d8d47656f23e474921d7c957adac2f6526b374ecac5f6ccb0d691e151e7737071ea16c934c6fa46a49763b95bd82e26759d1378f03c75240bc1967a050325a75d2d27ec47",
+            "urls":{
+                    "shezhao_1":"https://xayjy.hotjob.cn/wt/XAYJY/web/index/social",
+                    "shezhao_2":"https://xayjy.hotjob.cn/wt/XAYJY/web/index/interns",
+                    "xiaozhao_1":"https://xayjy.hotjob.cn/wt/XAYJY/web/index/campus"
+
+            },
+            "pre_open_url":"https://xayjy.hotjob.cn/",
+            "template":"template_50019",
+            "hd_all_location":"深圳,北京,西安",
+            "json_domain":"https://xayjy.hotjob.cn",
+            "func_name":"gen_50068"
+
+           }
+           ]
+           [Company]
+com_00001 = [
+           {
+            "com_name":" 招商证券股份有限公司",
+            "com_webname" :"招商证券",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/7c3b189f-e437-4bc2-ba8d-f46f12966b03.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU629dbc0c0dcad452299bc0f7/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU629dbc0c0dcad452299bc0f7/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU629dbc0c0dcad452299bc0f7/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU629dbc0c0dcad452299bc0f7/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"北京市,上海市,安徽省,广东省,湖北省,河南省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00002 = [
+           {
+            "com_name":" 安永（中国）企业咨询有限公司",
+            "com_webname" :"安永",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/EY/af448fb7-2732-4f3c-94d6-4e5a5f1ff28b.png",
+            "urls":{
+                    "shixi_1":"https://wecruit.hotjob.cn/SU640192b0bef57c71d90d025a/pb/interns.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU640192b0bef57c71d90d025a/pb/school.html"
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU640192b0bef57c71d90d025a/pb/index.html#/",
+            "template":"template_01002",
+            "hd_all_location":"北京,上海,广东省,四川省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00003 = [
+           {
+            "com_name":" 华数数字电视传媒集团有限公司",
+            "com_webname" :"华数数字电视传媒集团",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/aaf48179-b2e2-486a-a249-6257ec21abe6.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62d26fa80dcad42fc9958ed9/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62d26fa80dcad42fc9958ed9/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU62d26fa80dcad42fc9958ed9/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62d26fa80dcad42fc9958ed9/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"北京,辽宁省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00004 = [
+           {
+            "com_name":" 宏电集团",
+            "com_webname" :"宏电集团",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/aaf48179-b2e2-486a-a249-6257ec21abe6.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6319a241bef57c4676358c3e/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6319a241bef57c4676358c3e/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6319a241bef57c4676358c3e/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"深圳市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00005 = [
+           {
+            "com_name":"H&H（健合）集团",
+            "com_webname" :"健合集团",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/HHGROUP/443bef94-24e9-4fec-a8f4-287f7b04f32b.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62ac460fbef57c0f6fa4b738/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62ac460fbef57c0f6fa4b738/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU62ac460fbef57c0f6fa4b738/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62ac460fbef57c0f6fa4b738/pb/index.html#/",
+            "template":"template_01003",
+            "hd_all_location":"北京,上海,天津,重庆,安徽省,福建省,广东省,甘肃省,广西壮族自治区,贵州省,湖北省,河北省,黑龙江省,海南省,湖南省,河南省,海外,吉林省,江苏省,江西省,辽宁省,宁夏回族自治区,青海省,四川省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00006 = [
+           {
+            "com_name":"北京地平线信息技术有限公司",
+            "com_webname" :"地平线",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/Horizon/136eb0c0-9db7-4456-9c84-e783018d9d21.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html?projectCode=102101",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/school.html?projectCode=102701",
+                    "shixi_2":"https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/custom.html?parentKey=section_0&pageType=customize_section_0#/",
+            "template":"template_01003",
+            "hd_all_location":"北京市，南京市，上海市，重庆市，深圳市，成都市，西安市，杭州市，宁波市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00007 = [
+           {
+            "com_name":"中泰证券股份有限公司",
+            "com_webname" :"中泰证券",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/zts/9ffbe502-22fc-4e23-aa1f-2e97fa1bbc18.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62bd501c0dcad406d143caea/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62bd501c0dcad406d143caea/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU62bd501c0dcad406d143caea/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62bd501c0dcad406d143caea/pb/index.html#/",
+            "template":"template_01004",
+            "hd_all_location":"北京,上海,广东省,山东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00008 = [
+           {
+            "com_name":"特变电工股份有限公司",
+            "com_webname" :"特变电工",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/TBEA/778d69f8-1033-4577-8eab-5b78c02994e0.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU612f55eebef57c0616450aa2/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU612f55eebef57c0616450aa2/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU612f55eebef57c0616450aa2/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU612f55eebef57c0616450aa2/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"北京,上海,天津,广西壮族自治区,湖南省,江苏省,辽宁省,山东省,陕西省,新疆维吾尔自治区",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00009 = [
+           {
+            "com_name":"上海电气集团股份有限公司",
+            "com_webname" :"上海电气",
+            "com_logo":"http://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/9199e960-6f8c-46c7-8da8-5d58030bb4c9.png",
+            "urls":{
+                    "shezhao_1":"https://sec.hotjob.cn/SU60de8350bef57c519874bd36/pb/social.html",
+                    "xiaozhao_1":"https://sec.hotjob.cn/SU60de8350bef57c519874bd36/pb/school.html",
+                    "shixi_1":"https://sec.hotjob.cn/SU60de8350bef57c519874bd36/pb/interns.html"
+
+            },
+            "pre_open_url":"https://sec.hotjob.cn/SU60de8350bef57c519874bd36/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"上海",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00010 = [
+           {
+            "com_name":" 深圳市机场（集团）有限公司",
+            "com_webname" :"深圳机场集团",
+            "com_logo":"http://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/bc0a8084-183d-447e-abc3-2a1b1b52c162.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU60b79f9bbef57c1189691f8b/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU60b79f9bbef57c1189691f8b/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU60b79f9bbef57c1189691f8b/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU60b79f9bbef57c1189691f8b/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"深圳市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00011 = [
+           {
+            "com_name":"同济大学建筑设计研究院(集团)有限公司",
+            "com_webname" :"同济大学建筑设计研究院",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/TJAD/9e4cda71-cdfb-4bc8-9c60-74be4b3a1f81.png",
+            "urls":{
+                    "shezhao_1":"https://tjad.hotjob.cn/SU63914d5b2f9d244fe26ab0ba/pb/social.html",
+                    "xiaozhao_1":"https://tjad.hotjob.cn/SU63914d5b2f9d244fe26ab0ba/pb/school.html",
+                    "shixi_1":"https://tjad.hotjob.cn/SU63914d5b2f9d244fe26ab0ba/pb/interns.html"
+            },
+            "pre_open_url":"https://tjad.hotjob.cn/SU63914d5b2f9d244fe26ab0ba/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"上海,重庆",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00012 = [
+           {
+            "com_name":"云南白药集团股份有限公司 ",
+            "com_webname" :"云南白药",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/ad920522-ff73-45d4-ae94-f06fb67be113.png",
+            "urls":{
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6136b970bef57c3b638162c4/pb/school.html",
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6136b970bef57c3b638162c4/pb/social.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6136b970bef57c3b638162c4/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005",
+            "hd_all_location":"北京，上海，天津，重庆，安徽省，福建省，广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00013 = [
+           {
+            "com_name":"黑龙江飞鹤乳业有限公司",
+            "com_webname" :"飞鹤乳业",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/feihe/70c9f729-d940-497b-9009-bbcb0ca2d3ed.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6304eeb40dcad45aa776d597/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6304eeb40dcad45aa776d597/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6304eeb40dcad45aa776d597/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6304eeb40dcad45aa776d597/pb/index.html#/",
+            "template":"template_01004",
+            "hd_all_location":"北京，上海，广东省，黑龙江省",
+            "detail_hd":"0003",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00014 = [
+           {
+            "com_name":" 中证信用增进股份有限公司 ",
+            "com_webname" :"中证信用",
+            "com_logo":"http://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/12697e93-47f4-4756-9836-9639d832940e.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"北京,上海,重庆,广东省,四川省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00015 = [
+           {
+            "com_name":" 华泰证券股份有限公司 ",
+            "com_webname" :"华泰证券",
+            "com_logo":"http://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/6d70b735-fb91-425c-bab4-749c93319a44.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6419745cbef57c635fe10142/pb/school.html?projectCode=105901&showProjectBanner=true",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU6419745cbef57c635fe10142/pb/school.html?projectCode=105902&showProjectBanner=true",
+                    "xiaozhao_3":"https://wecruit.hotjob.cn/SU6419745cbef57c635fe10142/pb/school.html?projectCode=105903&showProjectBanner=true",
+                    "xiaozhao_4":"https://wecruit.hotjob.cn/SU6419745cbef57c635fe10142/pb/school.html?projectCode=105904&showProjectBanner=true",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00006",
+            "hd_all_location":"北京,上海,南京,深圳",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00016 = [
+           {
+            "com_name":"一汽奥迪销售有限责任公司",
+            "com_webname" :"一汽奥迪",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/856b5038-c661-4b50-a52c-36afbcbe6037.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU616d95e3bef57c1af3dc6bbb/pb/social.html",
+                    "xiaozhao_1":"https://tjad.hotjob.cn/SU63914d5b2f9d244fe26ab0ba/pb/school.html",
+                    "shixi_1":"https://tjad.hotjob.cn/SU63914d5b2f9d244fe26ab0ba/pb/interns.html"
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU616d95e3bef57c1af3dc6bbb/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00006",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00017 = [
+           {
+            "com_name":"广州越秀集团股份有限公司 ",
+            "com_webname" :"广州越秀",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/YUEXIU/bb84a498-bdcc-4665-be96-993023780be2.png",
+            "urls":{
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU5f2a75379b0d7882cc5135c2/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU5f2a75379b0d7882cc5135c2/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_1",
+            "hd_all_location":"广州市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00018 = [
+           {
+            "com_name":"广州越秀集团股份有限公司 ",
+            "com_webname" :"广州越秀",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/YUEXIU/bb84a498-bdcc-4665-be96-993023780be2.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU5f2a75379b0d7882cc5135c2/pb/social.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU5f2a75379b0d7882cc5135c2/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU5f2a75379b0d7882cc5135c2/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00001",
+            "detail_hd":"0001",
+            "hd_all_location":"广州市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00019 = [
+           {
+            "com_name":"长沙银行股份有限公司 ",
+            "com_webname" :"长沙银行",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/BCS/6c8f3d9d-66c3-4925-8345-0df23a8d75a4.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU628ddf200dcad4099b64f468/pb/social.html?projectCode=104201&showProjectBanner=true",
+                    "shezhao_2":"https://wecruit.hotjob.cn/SU628ddf200dcad4099b64f468/pb/social.html?projectCode=104202&showProjectBanner=true"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU628ddf200dcad4099b64f468/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"湖南省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00020 = [
+           {
+            "com_name":"中国银河金融控股有限责任公司 ",
+            "com_webname" :"中国银河金控",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/galaxyamc/fab15ebc-c8cb-4de6-8c06-888d74faae3c.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU618ca9732f9d242b12d420a7/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU618ca9732f9d242b12d420a7/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU618ca9732f9d242b12d420a7/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU618ca9732f9d242b12d420a7/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京,上海,广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00021 = [
+           {
+            "com_name":"中国机械设备工程股份有限公司 ",
+            "com_webname" :"国机集团",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/33a0f89d-272e-4ec1-880d-09ed49336dfb.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU611394092f9d24229ef55ca2/pb/social.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU611394092f9d24229ef55ca2/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU611394092f9d24229ef55ca2/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU611394092f9d24229ef55ca2/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京,黑龙江省,湖南省,陕西省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00022 = [
+           {
+            "com_name":"西部证券股份有限公司 ",
+            "com_webname" :"西部证券",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/56fd35e3-82e3-42bb-a649-e96e6f750d35.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00001",
+            "detail_hd":"0001",
+            "hd_all_location":"北京,上海,天津,重庆",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00023 = [
+           {
+            "com_name":"中国中化控股有限责任公司 ",
+            "com_webname" :"中国中化",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/Sinochem/97c2db08-d7da-4a05-bf0b-21eb61814b4b.png",
+            "urls":{
+                    "shezhao_1":"https://sinochem.hotjob.cn/SU610b91ee0dcad4106ff11c21/pb/social.html",
+                    "xiaozhao_2":"https://sinochem.hotjob.cn/SU610b91ee0dcad4106ff11c21/pb/school.html"
+
+            },
+            "pre_open_url":"https://sinochem.hotjob.cn/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京,黑龙江省,湖南省,陕西省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00024 = [
+           {
+            "com_name":"中国中化控股有限责任公司 ",
+            "com_webname" :"中国中化",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/Sinochem/97c2db08-d7da-4a05-bf0b-21eb61814b4b.png",
+            "urls":{
+                    "shixi_1":"https://sinochem.hotjob.cn/SU610b91ee0dcad4106ff11c21/pb/interns.html"
+
+            },
+            "pre_open_url":"https://sinochem.hotjob.cn/",
+            "template":"template_01101",
+            "func_name":"gen_00001",
+            "detail_hd":"0001",
+            "hd_all_location":"北京,上海,天津,重庆",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00025 = [
+           {
+            "com_name":"中国第一汽车集团有限公司 ",
+            "com_webname" :"中国一汽",
+            "com_logo":"https://faw-zhaopin.hotjob.cn/static/media/logo.a588cf6f2502d5dc0a0f.png",
+            "urls":{
+                    "shezhao_1":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=2&projectId=204201",
+                    "shezhao_2":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=2&projectId=203801",
+                    "xiaozhao_1":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=203501",
+                    "xiaozhao_2":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=203601",
+                    "xiaozhao_3":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=12&projectId=202902",
+                    "xiaozhao_4":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=203201",
+                    "shixi_1":"https://faw-zhaopin.hotjob.cn/positionList?recruitType=12&projectId=100301"
+
+            },
+            "pre_open_url":"https://faw-zhaopin.hotjob.cn/",
+            "template":"template_01010",
+            "func_name":"gen_00007",
+            "hd_all_location":"北京,上海,广州",
+            "json_domain":"https://faw-zhaopin.hotjob.cn"
+           }
+           ]
+com_00026 = [
+           {
+            "com_name":"天风证券股份有限公司",
+            "com_webname" :"天风证券",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/7eebc758-9890-40c7-aefd-04dc2588c370.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"北京,上海,广东省,湖北省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00027 = [
+           {
+            "com_name":"中移互联网有限公司",
+            "com_webname" :"中移互联网",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/zyhl/a6cea163-214a-4d59-95ed-3f3bc3028a21.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU63883ddf0dcad415783e00a9/pb/social.html",
+                    "shezhao_2":"https://wecruit.hotjob.cn/SU6405420f2f9d246c37a12677/pb/social.html",
+                    "shezhao_3":"https://wecruit.hotjob.cn/SU6405420f2f9d246c37a12677/pb/overseas.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU63883ddf0dcad415783e00a9/pb/school.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU6405420f2f9d246c37a12677/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6405420f2f9d246c37a12677/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6405420f2f9d246c37a12677/pb/index.html#/",
+            "template":"template_01004",
+            "hd_all_location":"上海,安徽省,广东省,湖南省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00028 = [
+           {
+            "com_name":"宇通客车股份有限公司",
+            "com_webname" :"宇通客车",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/yutong/5fee30a0-c18c-462e-b458-a537c7e6c0a0.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU649796b60dcad412ce9c4bbd/pb/social.html",
+                    "xiaozhao_1":"https://sec.hotjob.cn/SU60de8350bef57c519874bd36/pb/school.html",
+                    "shixi_1":"https://sec.hotjob.cn/SU60de8350bef57c519874bd36/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU649796b60dcad412ce9c4bbd/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"上海",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00029 = [
+           {
+            "com_name":" 国海证券有限责任公司",
+            "com_webname" :"国海证券",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/ghzq/e24365af-7401-4374-b1ad-b3f4aa0686c2.png",
+            "urls":{
+                "xiaozhao_1":"https://ghzq.hotjob.cn/SU64368f5c2f9d245a5ba3b479/pb/school.html",
+                    "shezhao_1":"https://ghzq.hotjob.cn/SU64368f5c2f9d245a5ba3b479/pb/social.html",
+                    "shezhao_2":"https://ghzq.hotjob.cn/SU64368f5c2f9d245a5ba3b479/pb/overseas.html",
+                    "shixi_1":"https://ghzq.hotjob.cn/SU64368f5c2f9d245a5ba3b479/pb/interns.html"
+
+            },
+            "pre_open_url":"https://ghzq.hotjob.cn/SU64368f5c2f9d245a5ba3b479/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"北京,上海,深圳,南宁",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00030 = [
+           {
+            "com_name":"中国五矿集团有限公司",
+            "com_webname" :"中国五矿",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/c68c7d39-ceef-4cdc-a6ae-8ed5922b0c41.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62f37858bef57c29ead8adab/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62f37858bef57c29ead8adab/pb/overseas.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU62f37858bef57c29ead8adab/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62f37858bef57c29ead8adab/pb/index.html#/",
+            "template":"template_01004",
+            "hd_all_location":"北京,上海,天津",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00031 = [
+           {
+            "com_name":" 第一创业证券股份有限公司",
+            "com_webname" :"第一创业",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/e42ff542-967e-4ed2-ac15-0066a67f7fe2.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6212eaf20dcad466450cc295/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6212eaf20dcad466450cc295/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6212eaf20dcad466450cc295/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6212eaf20dcad466450cc295/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"北京,上海,广东省,湖北省,黑龙江省,河南省,江西省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00032 = [
+           {
+            "com_name":"中国民航信息集团有限公司",
+            "com_webname" :"中国航信",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/9a305382-9946-41d5-9f95-5f6dbe6dfcc9.png",
+            "urls":{
+                    "shezhao_1":"https://travelsky.hotjob.cn/SU6358e2600dcad448466b5464/pb/social.html",
+                    "xiaozhao_1":"https://travelsky.hotjob.cn/SU6358e2600dcad448466b5464/pb/school.html",
+                    "shixi_1":"https://travelsky.hotjob.cn/SU6358e2600dcad448466b5464/pb/interns.html"
+
+            },
+            "pre_open_url":"https://travelsky.hotjob.cn/SU6358e2600dcad448466b5464/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京,重庆,安徽",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00033 = [
+           {
+            "com_name":" 南方基金管理有限公司",
+            "com_webname" :"南方基金",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/3a2c3ecf-4763-476c-933f-30cb0bb3bfaa.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU63eedf31bef57c71d9fb6a64/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"北京,上海,广州",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00034 = [
+           {
+            "com_name":"中国中车股份有限公司",
+            "com_webname" :"中国中车",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/CRRC/baac0529-d8b4-4955-ac64-879634039714.png",
+            "urls":{
+                    "shezhao_1":"https://crrc.hotjob.cn/SU64d47c466202cc36e27a52d4/pb/social.html",
+                    "xiaozhao_1":"https://crrc.hotjob.cn/SU64d47c466202cc36e27a52d4/pb/school.html",
+                    "xiaozhao_2":"https://crrc.hotjob.cn/SU64d47c466202cc36e27a52d4/pb/overseas.html",
+                    "shixi_1":"https://crrc.hotjob.cn/SU64d47c466202cc36e27a52d4/pb/interns.html"
+
+            },
+            "pre_open_url":"https://crrc.hotjob.cn/SU64d47c466202cc36e27a52d4/pb/custom.html?parentKey=section_5&pageType=customize_section_5#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京,重庆,安徽",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00035 = [
+           {
+            "com_name":" 广发证券股份有限公司",
+            "com_webname" :"广发证券",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/GFIT/5d678bb2-f300-4dde-9e00-c22cdb616b79.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"上海,广东,香港",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00036 = [
+           {
+            "com_name":"九江银行股份有限公司",
+            "com_webname" :"九江银行",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/JJYH/58d8924a-8a0d-4b34-9fbf-25d5bba08370.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU64faea1b1c240e4e45d27d61/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU64faea1b1c240e4e45d27d61/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU64faea1b1c240e4e45d27d61/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU64faea1b1c240e4e45d27d61/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京,广东,安徽",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00037 = [
+           {
+            "com_name":"北京经纬恒润科技股份有限公司",
+            "com_webname" :"经纬恒润",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/fda4592a-12b4-400b-b654-55a9562ef7cf.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"北京,广东,安徽",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00038 = [
+           {
+            "com_name":"南京泉峰科技有限公司 ",
+            "com_webname" :"泉峰科技",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/chervon/461b5c96-a37a-46e3-aac9-1e69da4726e6.png",
+            "urls":{
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6396cdcc0dcad40b2a419d69/pb/school.html",
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6396cdcc0dcad40b2a419d69/pb/social.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6396cdcc0dcad40b2a419d69/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6396cdcc0dcad40b2a419d69/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_2",
+            "hd_all_location":"江苏",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00039 = [
+           {
+            "com_name":"李宁（中国）体育用品有限公司",
+            "com_webname" :"李宁",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/lining/617968b7-3376-4bbb-bfc7-5a5970618e28.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6018f8695d83dc072073e990/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6018f8695d83dc072073e990/pb/school.html"
+            },
+            "pre_open_url":"https://lining.hotjob.cn/",
+            "template":"template_01001",
+            "hd_all_location":"上海,北京",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00040 = [
+           {
+            "com_name":"中国物流集团有限公司",
+            "com_webname" :"中国物流",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/CL/e75c1a3d-eba4-418f-b767-c79e2734f286.png",
+            "urls":{
+                    "shezhao_1":"https://chinalogisticsgroup.hotjob.cn/SU6426c1e1bef57c1e26962897/pb/social.html",
+                    "xiaozhao_1":"https://chinalogisticsgroup.hotjob.cn/SU6426c1e1bef57c1e26962897/pb/school.html"
+            },
+            "pre_open_url":"https://chinalogisticsgroup.hotjob.cn/",
+            "template":"template_01101",
+            "func_name":"gen_00006",
+            "hd_all_location":"北京,上海,天津,重庆,安徽省,广东省,广西壮族自治区,湖北省,湖南省,河南省,海外,吉林省,江苏省,江西省,辽宁省,内蒙古自治区,四川省",
+            "detail_hd":"0003",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00041 = [
+           {
+            "com_name":"无锡丹尼克尔自动化科技有限公司(集团)有限公司",
+            "com_webname" :"丹尼克尔",
+            "com_logo":"https://www.hotjob.cn/wt/Danikor/web/img!viewWebSiteLogo?brandCode=1",
+            "urls":{
+                    "shezhao_1":"https://danikor.hotjob.cn/SU652ce9301c240e09eb0425e3/pb/social.html",
+                    "xiaozhao_1":"https://danikor.hotjob.cn/SU652ce9301c240e09eb0425e3/pb/school.html"
+            },
+            "pre_open_url":"https://danikor.hotjob.cn/",
+            "template":"template_01001",
+            "hd_all_location":"无锡",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00042 = [
+           {
+            "com_name":"三诺生物传感股份有限公司",
+            "com_webname" :"三诺",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/b1f2f814-500c-4140-a0f9-5fda8903f97d.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU61f10828bef57c632bf1a3b9/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU61f10828bef57c632bf1a3b9/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU61f10828bef57c632bf1a3b9/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU61f10828bef57c632bf1a3b9/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"上海，福建省，广东省，甘肃省，湖北省，湖南省，河南省，江苏省，辽宁省，四川省，山东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00043 = [
+           {
+            "com_name":"  招联消费金融股份有限公司",
+            "com_webname" :"招联",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/283d745a-6603-4b53-ad04-5b35bf46d299.PNG",
+            "urls":{
+                    "xiaozhao_1":"https://mucfc.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/school.html",
+                    "shezhao_1":"https://mucfc.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/social.html",
+                    "shixi_1":"https://mucfc.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html"
+
+            },
+            "pre_open_url":"https://mucfc.hotjob.cn/",
+            "template":"template_01001",
+            "hd_all_location":"北京,广东,湖北",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00044 = [
+           {
+            "com_name":"  广州珠江实业集团有限公司",
+            "com_webname" :"珠江实业",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/gzprg/b17a855d-ac25-41fb-8ff7-2ebfe5f656c5.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6513d4281c240e3d6804d22d/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6513d4281c240e3d6804d22d/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU6513d4281c240e3d6804d22d/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6513d4281c240e3d6804d22d/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"广东,海南",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00045 = [
+           {
+            "com_name":"  中国南山开发（集团）股份有限公司",
+            "com_webname" :"中国南山",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/cndi/5d4cafd3-8890-4d8b-9731-4c2f018c76ad.png",
+            "urls":{
+                    "shezhao_1":"https://cndi.hotjob.cn/SU63562b35bef57c51d1a1691c/pb/social.html",
+                    "xiaozhao_1":"https://cndi.hotjob.cn/SU63562b35bef57c51d1a1691c/pb/school.html"
+
+            },
+            "pre_open_url":"https://cndi.hotjob.cn/",
+            "template":"template_01001",
+            "hd_all_location":"深圳",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00046 = [
+           {
+            "com_name":"  广州王老吉药业股份有限公司",
+            "com_webname" :"王老吉",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/wlj/c0c0daaa-afdd-46b0-a4a8-7b5cc8e48e0e.png",
+            "urls":{
+                    "shezhao_1":"https://wlj.hotjob.cn/SU64e853871eb80519a8e99140/pb/social.html",
+                    "xiaozhao_1":"https://wlj.hotjob.cn/SU64e853871eb80519a8e99140/pb/school.html"
+
+            },
+            "pre_open_url":"https://wlj.hotjob.cn/SU64e853871eb80519a8e99140/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"安徽省，广东省，甘肃省，广西壮族自治区，贵州省，湖南省，河南省，云南省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00047 = [
+           {
+            "com_name":"深圳麦格米特电气股份有限公司 ",
+            "com_webname" :"麦格米特",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/48036cc2-8591-4c70-84dc-63fc3894630d.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU6282075e0dcad413c09efe26/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6282075e0dcad413c09efe26/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU6282075e0dcad413c09efe26/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_2",
+            "hd_all_location":"广东省，湖北省，湖南省，海外，四川省，陕西省，浙江省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00048 = [
+           {
+            "com_name":"  荣耀终端有限公司",
+            "com_webname" :"荣耀",
+            "com_logo":"http://twecruit.oss-cn-hangzhou.aliyuncs.com/files/default/e1730cd3-2de8-4b9f-a78b-dc404691226b.svg",
+            "urls":{
+                    "shezhao_1":"https://career.honor.com/SU5ff669649b0d78e6f4296c9a/pb/social.html",
+                    "xiaozhao_1":"https://career.honor.com/SU60eea919bef57c1023f6fe78/pb/school.html",
+                    "shixi_1":"https://career.honor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html"
+
+            },
+            "pre_open_url":"https://www.honor.com/cn/career/",
+            "template":"template_01001",
+            "hd_all_location":"北京市，上海市，深圳市，南京市，西安市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00049 = [
+           {
+            "com_name":"立讯精密工业股份有限公司 ",
+            "com_webname" :"立讯精密",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/67dcfb66-5bd5-43ef-b587-8440b05a4641.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU601778b25d83dc072073230a/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU601778b25d83dc072073230a/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU601778b25d83dc072073230a/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00009",
+            "hd_all_location":"上海，江苏省，浙江省，安徽省，江西省，广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00050 = [
+           {
+            "com_name":"中国机械工业集团有限公司 ",
+            "com_webname" :"国机集团",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/4a10f6bf-2400-4888-ada6-ec4df9452b37.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU64b4cfe82f9d24760ae8b80c/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU64b4cfe82f9d24760ae8b80c/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU64b4cfe82f9d24760ae8b80c/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU64b4cfe82f9d24760ae8b80c/pb/custom.html?parentKey=section_3&pageType=customize_section_3#/",
+            "template":"template_01005",
+            "func_name":"gen_00009",
+            "hd_all_location":"北京，广东省，甘肃省，江苏省，四川省，陕西省，浙江省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00051 = [
+           {
+            "com_name":" 华夏幸福基业股份有限公司",
+            "com_webname" :"华夏幸福",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/CFLD/ea1346b9-fadf-4f78-a89a-4b8061d9164a.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU641d3c5a0dcad470d9c4543b/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU641d3c5a0dcad470d9c4543b/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU641d3c5a0dcad470d9c4543b/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"北京,上海,天津",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00052 = [
+           {
+            "com_name":" 创维集团有限公司",
+            "com_webname" :"创维集团",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/Skyworthhr/f41ae621-d8b6-4ef3-a249-47d065d6fd62.png",
+            "urls":{
+                    "xiaozhao_1":"https://skyworth.hotjob.cn/SU668b8b251c240e2e76ea71d8/pb/school.html"
+
+            },
+            "pre_open_url":"https://skyworth.hotjob.cn/SU668b8b251c240e2e76ea71d8/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"北京，广东省，湖北省，江苏省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00053 = [
+           {
+            "com_name":"永赢基金管理有限公司",
+            "com_webname" :"永赢基金",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/f8ed62dc-013c-40b3-8e86-8eaf495ff77a.png",
+            "urls":{
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU628a429c0dcad41af38720c0/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU628a429c0dcad41af38720c0/pb/interns.html"
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU628a429c0dcad41af38720c0/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"上海,北京,广东",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00054 = [
+           {
+            "com_name":"东风汽车集团有限公司 ",
+            "com_webname" :"东风汽车",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/95cbbafb-31fa-4c14-84b2-4b08ec297e69.png",
+            "urls":{
+                    "shezhao_1":"https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/social.html",
+                    "xiaozhao_1":"https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/school.html",
+                    "xiaozhao-2":"https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/overseas.html"
+
+            },
+            "pre_open_url":"https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00009",
+            "hd_all_location":"上海，重庆，安徽省，广东省，甘肃省，广西壮族自治区，贵州省，湖北省，湖南省，河南省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00055 = [
+           {
+            "com_name":" 佛山市海天调味食品股份有限公司",
+            "com_webname" :"海天调味",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/haday/51f0f9de-4b67-43ab-8bac-cb09e57bce53.png",
+            "urls":{
+
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU6322dfb70dcad46a862da4c5/pb/school.html"
+
+            },
+            "pre_open_url":"https://haday.hotjob.cn/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"广东",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00056 = [
+           {
+            "com_name":"白云电气集团",
+            "com_webname" :"白云电气",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/BPG/4174913e-9082-4001-abcc-ffa39184e2b6.png",
+            "urls":{
+                    "shezhao_1":"https://bpgroup.hotjob.cn/SU64c87d8f1c240e7cb6b9e8eb/pb/social.html",
+                    "xiaozhao_1":"https://bpgroup.hotjob.cn/SU64c87d8f1c240e7cb6b9e8eb/pb/school.html"
+
+            },
+            "pre_open_url":"https://bpgroup.hotjob.cn/SU64c87d8f1c240e7cb6b9e8eb/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"广州，南京，杭州",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00057 = [
+           {
+            "com_name":" 芯恩（青岛）集成电路有限公司",
+            "com_webname" :"芯恩",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/Sien/e4378cb3-cf18-4f46-9654-a17b90bde913.png",
+            "urls":{
+                "xiaozhao_1":"https://siencampus.hotjob.cn/SU64ebfd3f1eb80519a8f9db42/pb/school.html"
+            },
+            "pre_open_url":"https://siencampus.hotjob.cn/SU64ebfd3f1eb80519a8f9db42/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"青岛",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00058 = [
+           {
+            "com_name":"北京辰安科技股份有限公司",
+            "com_webname" :"辰安科技",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/db5f8422-a3b6-4ff0-9617-d66cea58b680.png",
+            "urls":{
+                "shezhao_1":"https://gsafety.hotjob.cn/SU62fc4b650dcad44f7a1ed0c5/pb/social.html"
+            },
+            "pre_open_url":"https://gsafety.hotjob.cn/SU62fc4b650dcad44f7a1ed0c5/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"北京,安徽省,福建省,广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00059 = [
+           {
+            "com_name":"北京辰安科技股份有限公司",
+            "com_webname" :"辰安科技",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/db5f8422-a3b6-4ff0-9617-d66cea58b680.png",
+            "urls":{
+                    "xiaozhao_1":"https://gsafety.hotjob.cn/SU62fc4b650dcad44f7a1ed0c5/pb/school.html"
+
+            },
+            "pre_open_url":"https://gsafety.hotjob.cn/SU62fc4b650dcad44f7a1ed0c5/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_2",
+            "hd_all_location":"北京,安徽省,福建省,广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00060 = [
+           {
+            "com_name":" 宝时得科技（中国）有限公司",
+            "com_webname" :"宝时得",
+            "com_logo":"hhttps://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/Positec/484e8997-970d-459b-b062-d788b80404ee.png",
+            "urls":{
+                    "shezhao_1":"https://positec.hotjob.cn/SU64ae46c02f9d24760adac777/pb/social.html",
+                    "xiaozhao_1":"https://positec.hotjob.cn/SU64ae46c02f9d24760adac777/pb/school.html"
+
+            },
+            "pre_open_url":"https://positec.hotjob.cn/SU64ae46c02f9d24760adac777/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"苏州",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00061 = [
+           {
+            "com_name":" 国投证券股份有限公司",
+            "com_webname" :"国投证券",
+            "com_logo":"https://static1.sdicsc.com.cn/v6/img/essence-logo3.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU625d4a0b2f9d24287db127c8/pb/social.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU625d4a0b2f9d24287db127c8/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"北京，上海，福建省，广东省，甘肃省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00062 = [
+           {
+            "com_name":" 国投证券股份有限公司",
+            "com_webname" :"国投证券",
+            "com_logo":"https://static1.sdicsc.com.cn/v6/img/essence-logo3.png",
+            "urls":{
+                    "shixi_1":"https://wecruit.hotjob.cn/SU625d4a0b2f9d24287db127c8/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU625d4a0b2f9d24287db127c8/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00003",
+            "hd_all_location":"北京，上海，福建省，广东省，甘肃省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00063 = [
+           {
+            "com_name":" 深圳航空有限责任公司",
+            "com_webname" :"深圳航空",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/shenzhenair/b3d28d7d-1926-4d96-bba7-8d4c54586b1e.png",
+            "urls":{
+                    "shezhao_1":"https://shenzhenair.hotjob.cn/SU66ea90991eb80537aad29e09/pb/social.html"
+
+            },
+            "pre_open_url":"https://shenzhenair.hotjob.cn/SU66ea90991eb80537aad29e09/pb/index.html#/",
+            "template":"template_01101",
+            "func_name":"gen_00008",
+            "hd_all_location":"广东省，河南省，江苏省，辽宁省，陕西省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00064 = [
+           {
+            "com_name":" 深圳航空有限责任公司",
+            "com_webname" :"深圳航空",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/shenzhenair/b3d28d7d-1926-4d96-bba7-8d4c54586b1e.png",
+            "urls":{
+                    "xiaozhao_1":"https://shenzhenair.hotjob.cn/SU66ea90991eb80537aad29e09/pb/school.html"
+
+            },
+            "pre_open_url":"https://shenzhenair.hotjob.cn/SU66ea90991eb80537aad29e09/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"广东省，河南省，江苏省，辽宁省，陕西省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00065 = [
+           {
+            "com_name":"中车株洲电力机车有限公司",
+            "com_webname" :"中车株洲电力机车有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/CRRC/6f9747d8-13ca-4835-ae65-14bb4db8e3f7.jpg",
+            "urls":{
+                    "xiaozhao_1":"https://crrc-zj.hotjob.cn/SU64ca1e016202cc125d4838b0/pb/school.html",
+                    "xiaozhao_2":"https://crrc-zj.hotjob.cn/SU64ca1e016202cc125d4838b0/pb/overseas.html"
+
+            },
+            "pre_open_url":"https://crrc-zj.hotjob.cn/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"北京,湖南省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00066 = [
+           {
+            "com_name":" 珠海科技学院",
+            "com_webname" :"珠海科技学院",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/ZCST/a8f0ebda-22fb-4723-b86e-cf5d2692a5f6.png",
+            "urls":{
+                    "shezhao_1":"https://zcst.hotjob.cn/SU6531e6f61eb8053a02090175/pb/social.html",
+                    "xiaozhao_1":"https://zcst.hotjob.cn/SU6531e6f61eb8053a02090175/pb/school.html",
+                    "xiaozhao_2":"https://zcst.hotjob.cn/SU6531e6f61eb8053a02090175/pb/interns.html"
+
+            },
+            "pre_open_url":"https://zcst.hotjob.cn/SU6531e6f61eb8053a02090175/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"珠海",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00067 = [
+           {
+            "com_name":" 歌尔股份有限公司",
+            "com_webname" :" 歌尔股份有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/GoerTek/ed36a262-0072-4b36-b8f9-5147c2a63bf9.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU63c504500dcad47488051f3c/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU65dd9ebd1c240e4b11c4f491/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU65dd9ebd1c240e4b11c4f491/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU63c504500dcad47488051f3c/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"北京,上海,重庆,广东省,江苏省,四川省,山东省,陕西省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00068 = [
+           {
+            "com_name":" 中国科学院力学研究所",
+            "com_webname" :" 中国科学院力学研究所",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/IMECH/ea5b407b-02a7-416c-be33-dc0d75891959.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU67b689391eb80555b7a914d0/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU67b689391eb80555b7a914d0/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU67b689391eb80555b7a914d0/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU67b689391eb80555b7a914d0/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"北京",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00069 = [
+           {
+            "com_name":" 杭州安恒信息技术股份有限公司",
+            "com_webname" :"杭州安恒信息技术股份有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/DAS/588e3ebc-1913-46a4-bef8-1582bbedd4e8.png",
+            "urls":{
+                    "shixi_1":"https://wecruit.hotjob.cn/SU64d2eec26202cc36e27682ff/pb/interns.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU64d2eec26202cc36e27682ff/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"北京,上海,安徽省,芜湖市,广东省,甘肃省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00070 = [
+           {
+            "com_name":" 宁波博威合金材料股份有限公司",
+            "com_webname" :"宁波博威合金材料股份有限公司",
+            "com_logo":"http://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/095a289a-b4d7-4079-aecf-616a5b96ece4.jpg",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU60b08b700dcad46f85953ac4/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU60b08b700dcad46f85953ac4/pb/school.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU60b08b700dcad46f85953ac4/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"天津,广东省,浙江省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00071 = [
+           {
+            "com_name":" 国泰金融控股股份有限公司",
+            "com_webname" :"国泰金融控股股份有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/6266aa97-715c-402f-807e-a3a1fbe62c0b.png",
+            "urls":{
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU630eeddabef57c3179ff51e9/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU630eeddabef57c3179ff51e9/pb/school.html",
+                    "shixi_1":"https://wecruit.hotjob.cn/SU630eeddabef57c3179ff51e9/pb/interns.html"
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU630eeddabef57c3179ff51e9/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"上海,广东省,山东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00072 = [
+           {
+            "com_name":" 广东省机场管理集团有限公司",
+            "com_webname" :"广东省机场管理集团有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/gaajob/e2ea65b0-9f95-4bc6-820e-6957762c7abd.png",
+            "urls":{
+                    "xiaozhao_1":"https://gaajob.hotjob.cn/SU645da0470dcad45af138eb9d/pb/school.html"
+            },
+            "pre_open_url":"https://gaajob.hotjob.cn/SU645da0470dcad45af138eb9d/pb/index.html#/",
+            "template":"template_01001",
+            "hd_all_location":"广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00073 = [
+           {
+            "com_name":" 广东省机场管理集团有限公司",
+            "com_webname" :"广东省机场管理集团有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/gaajob/e2ea65b0-9f95-4bc6-820e-6957762c7abd.png",
+            "urls":{
+                    "shezhao_1":"https://gaajob.hotjob.cn/SU645da0470dcad45af138eb9d/pb/social.html",
+                    "shixi_1":"https://gaajob.hotjob.cn/SU645da0470dcad45af138eb9d/pb/interns.html"
+
+            },
+            "pre_open_url":"https://gaajob.hotjob.cn/SU645da0470dcad45af138eb9d/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_1",
+            "hd_all_location":"广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00074 = [
+           {
+            "com_name":"广东省广告集团股份有限公司",
+            "com_webname" :"广东省广告集团股份有限公司",
+            "com_logo":"https://wecruit.cn-hangzhou.oss.aliyuncs.com/files/oline/GIMC/5a6bc70c-04d9-449b-a7d2-2ee267b0b638.jpg",
+            "urls":{
+                    "shezhao_1":"https://gimc.hotjob.cn/SU64e40dac1c240e5fa7662880/pb/social.html",
+                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU5f56e5bf9b0d78f6000a8773/pb/school.html",
+                    "shixi_1":"https://gimc.hotjob.cn/SU64e40dac1c240e5fa7662880/pb/interns.html"
+
+            },
+            "pre_open_url":"https://gimc.hotjob.cn/SU64e40dac1c240e5fa7662880/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00004",
+            "hd_all_location":"广州市",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00075 = [
+           {
+            "com_name":"松山湖材料实验室 ",
+            "com_webname" :"松山湖材料实验室",
+            "com_logo":"https://wecruit.oss-cn-hangzhou.aliyuncs.com/files/default/029af271-a538-4145-a0fc-c4701b9361ac.png",
+            "urls":{
+                                    "xiaozhao_1":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/school.html",
+                    "shezhao_1":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/social.html",
+                    "xiaozhao_2":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/overseas.html"
+
+            },
+            "pre_open_url":"https://wecruit.hotjob.cn/SU602f5f172f9d240e519f6869/pb/index.html#/",
+            "template":"template_01005",
+            "func_name":"gen_00005_3",
+            "hd_all_location":"广东省",
+            "json_domain":"https://wecruit.hotjob.cn"
+           }
+           ]
+com_00076 = [
+           {
+            "com_name":"北京三快科技有限公司 ",
+            "com_webname" :"北京三快科技有限公司",
+            "com_logo":"https://s3.meituan.net/static-prod01/com.sankuai.recruitment.official.website/dist/imgs/logo-b6301390.png",
+            "urls":{
+                    "shezhao_1":"https://zhaopin.meituan.com/web/social",
+                    "xiaozhao_2":"https://zhaopin.meituan.com/web/campus"
+
+            },
+            "pre_open_url":"https://zhaopin.meituan.com/web/home",
+            "template":"template_02014",
+            "func_name":"gen_00010",
+            "hd_all_location":"北京,上海,深圳,成都",
+            "json_domain":"https://zhaopin.meituan.com"
+           }
+           ]
